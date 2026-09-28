@@ -1,0 +1,5080 @@
+{
+ "builtAt": "2026-09-28",
+ "count": 72,
+ "ingredients": [
+  {
+   "slug": "magnesium",
+   "nameEn": "Magnesium",
+   "nameKo": "마그네슘",
+   "aliasesKo": [],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 943
+   },
+   "monthlyRevenueUsd": 47186766.0,
+   "podcastMentions": 383,
+   "podcast": [
+    {
+     "speaker": "Mark Hyman",
+     "kind": "mechanism",
+     "claim": "Magnesium may help relax blood vessels and support insulin and blood sugar regulation and heart rhythm.",
+     "quote": "Magnesium, really important. Helps relax your blood vessels, helps with insulin, blood sugar regulation. Heart rhythm also is helped by that.",
+     "videoId": "F7n4duUjplQ",
+     "t": 1378,
+     "title": "Normal Cholesterol But Still Getting Heart Disease? Here's Why | Dr. Mark Hyman",
+     "channel": "Dr. Mark Hyman",
+     "duration": 1458
+    },
+    {
+     "speaker": "Mark Hyman",
+     "kind": "recommendation",
+     "claim": "The speaker prefers magnesium glycinate, or magnesium citrate for people who are constipated.",
+     "quote": "I like magnesium glycinate, or if you're constipated, you can use magnesium citrate.",
+     "videoId": "F7n4duUjplQ",
+     "t": 1385,
+     "title": "Normal Cholesterol But Still Getting Heart Disease? Here's Why | Dr. Mark Hyman",
+     "channel": "Dr. Mark Hyman",
+     "duration": 1458
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "mechanism",
+     "claim": "Magnesium is needed for more than 300 enzymes, energy production, and DNA repair, and inadequate intake may affect bone health and contribute to cancer risk over time.",
+     "quote": "it is a co-actor for over 300 enzymes, important to make energy. You can't make ETP without magnesium. You also need it uh to repair damage to your DNA.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4971,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "recommendation",
+     "claim": "Rhonda Patrick favors magnesium glycinate, especially at night, and says magnesium oxide is poorly bioavailable while evidence for magnesium threonate’s cognitive effects remains preliminary.",
+     "quote": "The classic one that people used to take, magnesium dioxide, terrible. Um it's just not bioavailable at all. Um so forget that form. ... Magnesium glycinate I like to take because um at night especially",
+     "videoId": "OCddz_0NrEE",
+     "t": 5023,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "dose_timing",
+     "claim": "She takes magnesium at night as part of her supplement routine.",
+     "quote": "And then at night, I'm doing a lot of stuff. I mean, I'm doing the magnesium.",
+     "videoId": "OCddz_0NrEE",
+     "t": 5413,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    }
+   ],
+   "reddit": "Reddit users are passionate about magnesium supplementation but frustrated by misleading labeling and quality inconsistencies. There's strong consensus that magnesium glycinate is superior to oxide for most uses, but individual responses vary significantly. Users emphasize the importance of reputable brands and proper form selection for specific health goals.",
+   "products": [
+    {
+     "brand": "Pure Encapsulations",
+     "title": "Pure Encapsulations Magnesium (Glycinate) - Supplement to Support Stress Relief, Sleep, Heart Health, Nerves, Muscles, and Metabolism* - with Magnesium Glycinate - 90 Capsules",
+     "price": 27.0,
+     "rating": 4.7,
+     "reviews": 46705,
+     "monthlySold": 100000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 90,
+     "pricePerServing": null,
+     "asin": "B07P5K7DQP"
+    },
+    {
+     "brand": "Double Wood Supplements",
+     "title": "Magnesium Glycinate 400mg | 180 Capsules | Sleep, Muscle, & Heart Support | Vegan, Third Party Tested, Gluten Free, Non-GMO, by Double Wood Supplements",
+     "price": 16.95,
+     "rating": 4.7,
+     "reviews": 20959,
+     "monthlySold": 80000,
+     "form": "capsule",
+     "doseMg": 400,
+     "servings": 180,
+     "pricePerServing": null,
+     "asin": "B0B6CTYD6S"
+    },
+    {
+     "brand": "NatureBell",
+     "title": "Naturebell Pure Magnesium Glycinate 500mg, 240 Veggie Capsules | 100% Chelated & Purified – 3rd Party Tested, Vegan Friendly, Non-GMO, Filler Free",
+     "price": 15.96,
+     "rating": 4.7,
+     "reviews": 17129,
+     "monthlySold": 80000,
+     "form": "capsule",
+     "doseMg": 500,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0C88BJYX2"
+    }
+   ]
+  },
+  {
+   "slug": "collagen-peptides",
+   "nameEn": "Collagen Peptides",
+   "nameKo": "콜라겐 펩타이드",
+   "aliasesKo": [
+    "가수분해 콜라겐",
+    "저분자 콜라겐"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 1159
+   },
+   "monthlyRevenueUsd": 35608968.0,
+   "podcastMentions": 131,
+   "podcast": [],
+   "reddit": "Reddit users are generally positive about collagen peptides despite scientific skepticism, with many reporting subtle but real benefits for joints, hair, and nails that become apparent when stopping supplementation. Vital Proteins dominates discussion but faces criticism for Nestle ownership and quality concerns, driving users to seek alternatives.",
+   "products": [
+    {
+     "brand": "vital proteins",
+     "title": "Vital Proteins Collagen Peptides Powder Advanced with Hyaluronic Acid & Vitamin C, 20oz Collagen Protein, Unflavored, 27 Servings",
+     "price": 41.94,
+     "rating": 4.5,
+     "reviews": 213093,
+     "monthlySold": 90000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 27,
+     "pricePerServing": null,
+     "asin": "B00K6JUG4K"
+    },
+    {
+     "brand": "Live Conscious",
+     "title": "Live Conscious Collagen Peptides Powder - Naturally-Sourced Hydrolyzed Collagen Powder - Hair, Skin, Nail, and Joint Support - Type I & III Grass-Fed Collagen Supplements for Women and Men - 16oz",
+     "price": 34.0,
+     "rating": 4.5,
+     "reviews": 73236,
+     "monthlySold": 40000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B07GY22VLW"
+    },
+    {
+     "brand": "Sports Research",
+     "title": "Sports Research Collagen Peptides - Hydrolyzed Type 1 & 3 Collagen Powder Protein Supplement for Healthy Skin, Nails, & Joints - Easy Mixing Vital Nutrients & Proteins, Collagen for Women & Men",
+     "price": 26.36,
+     "rating": 4.6,
+     "reviews": 108691,
+     "monthlySold": 40000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B00XQ2XGAA"
+    }
+   ]
+  },
+  {
+   "slug": "biotin",
+   "nameEn": "Biotin",
+   "nameKo": "비오틴",
+   "aliasesKo": [
+    "비타민 B7",
+    "비타민 H"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 21
+   },
+   "monthlyRevenueUsd": 33917687.0,
+   "podcastMentions": 14,
+   "podcast": [],
+   "reddit": "Reddit discussions reveal biotin supplements are widely used but controversial - while cheap and potentially effective for deficient users, they commonly cause acne breakouts and interfere with blood tests. Premium hair supplement brands like Nutrafol are viewed as overpriced with users actively seeking cheaper alternatives. Many recognize that real hair loss treatments (minoxidil, finasteride) ar",
+   "products": [
+    {
+     "brand": "NUTRAHARMONY",
+     "title": "NUTRAHARMONY Biotin | Collagen | Hyaluronic Acid | Keratin - Support Normal Hair Growth Cycle - Skin & Nails - 25000mcg Vitamins B1, B2, B3, B6 & B7 - for Women & Men - Made in USA | 60 Capsules",
+     "price": 27.99,
+     "rating": 4.5,
+     "reviews": 16321,
+     "monthlySold": 40000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B09RKDGYJD"
+    },
+    {
+     "brand": "Nature's Bounty",
+     "title": "Nature's Bounty Biotin Hair Skin and Nails Vitamins, Supports Healthy Hair, Skin and Nails, 10,000 mcg, 120 Softgels (Pack of 1)",
+     "price": 8.88,
+     "rating": 4.7,
+     "reviews": 106209,
+     "monthlySold": 30000,
+     "form": "softgel",
+     "doseMg": null,
+     "servings": 120,
+     "pricePerServing": null,
+     "asin": "B009SZXM4E"
+    },
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Collagen Gummies with Vitamin C, Zinc, Biotin, Hydrolyzed Collagen Peptides for Women and Men, Healthy Skin Support Supplement, 60 Gummies, 60 Day Supply",
+     "price": 10.99,
+     "rating": 4.6,
+     "reviews": 11119,
+     "monthlySold": 20000,
+     "form": "gummy",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B08FNKSPD2"
+    }
+   ]
+  },
+  {
+   "slug": "prebiotics",
+   "nameEn": "Prebiotics",
+   "nameKo": "프리바이오틱스",
+   "aliasesKo": [
+    "프리바이오틱"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 537
+   },
+   "monthlyRevenueUsd": 31051247.0,
+   "podcastMentions": 236,
+   "podcast": [
+    {
+     "speaker": "Nicola",
+     "kind": "mechanism",
+     "claim": "The speaker says the prebiotic product works because removing plant diversity from the diet can quickly reduce microbiome diversity.",
+     "quote": "if we remove the diversity of plants uh going in, we can lose the this diversity in a second. Um and this is actually why we think that um this prebiotic product works.",
+     "videoId": "xELtC21lAW0",
+     "t": 2667,
+     "title": "Groundbreaking research reveals the 50 NEW gut bacteria you need to reshape body fat",
+     "channel": "Dr. Tim Spector",
+     "duration": 3736
+    },
+    {
+     "speaker": "Sarah",
+     "kind": "mechanism",
+     "claim": "In a randomized trial, people taking the whole-food prebiotic supplement had increases in beneficial gut bacteria and decreases in harmful bacteria, with more pronounced changes than in the probiotic or control groups.",
+     "quote": "So what we found is for those taking the prebiotic whole food supplement, we saw a huge shift in the gut microbiome. We saw a large increase in our good bugs and we saw also a decrease in our bad bugs.",
+     "videoId": "xELtC21lAW0",
+     "t": 2432,
+     "title": "Groundbreaking research reveals the 50 NEW gut bacteria you need to reshape body fat",
+     "channel": "Dr. Tim Spector",
+     "duration": 3736
+    },
+    {
+     "speaker": "Nicola",
+     "kind": "mechanism",
+     "claim": "The whole-food prebiotic supplement increased the presence and amounts of many gut bacteria, including bacteria among the top 50 and top 100 species.",
+     "quote": "the top 50 bacteria increased uh in their presence and and their uh amounts. This was really really strong and not only in the top 50 also you know still the top 100 or so we see huge increases",
+     "videoId": "xELtC21lAW0",
+     "t": 2508,
+     "title": "Groundbreaking research reveals the 50 NEW gut bacteria you need to reshape body fat",
+     "channel": "Dr. Tim Spector",
+     "duration": 3736
+    },
+    {
+     "speaker": "Nicola",
+     "kind": "mechanism",
+     "claim": "Different prebiotics can stimulate different gut bacteria, and a diverse range of prebiotics may support a greater diversity of microbes and beneficial chemicals.",
+     "quote": "This can be due to the specific foods that that we eat or the specific prebiotics that we eat that are stimulating some and not others.",
+     "videoId": "xELtC21lAW0",
+     "t": 2821,
+     "title": "Groundbreaking research reveals the 50 NEW gut bacteria you need to reshape body fat",
+     "channel": "Dr. Tim Spector",
+     "duration": 3736
+    }
+   ],
+   "reddit": "Reddit users show strong interest in prebiotics for gut health but are divided between supplements and whole food sources. Many report positive effects for skin, digestion, and mood, though cost and side effects remain concerns. There's growing skepticism about supplement regulation and effectiveness, with fermented foods gaining favor as natural alternatives.",
+   "products": [
+    {
+     "brand": "Seed",
+     "title": "Seed DS-01 Daily Synbiotic - Prebiotic and Probiotic for Women & Men - Digestive Health, Gut Health, Immune Support, Bloating & Constipation Relief - Vegan & Shelf-Stable - 60 Capsules (30-Day Supply)",
+     "price": 59.99,
+     "rating": 4.3,
+     "reviews": 6371,
+     "monthlySold": 50000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.6,
+     "asin": "B0CMJR4XGR"
+    },
+    {
+     "brand": "Benefiber",
+     "title": "Benefiber Daily Prebiotic GLP-1 Friendly Fiber Supplement Powder for Digestive Health, Unflavored - 250 Teaspoons (17.6 Ounces)",
+     "price": 22.86,
+     "rating": 4.7,
+     "reviews": 10847,
+     "monthlySold": 40000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 250,
+     "pricePerServing": 0.08,
+     "asin": "B00CX3ASFE"
+    },
+    {
+     "brand": "OLLY",
+     "title": "OLLY Probiotic + Prebiotic Gummy, Digestive Support and Gut Health, 500 Million CFUs, Fiber, Adult Chewable Supplement for Men and Women, Peach, 30 Day Supply - 30 Count",
+     "price": 12.87,
+     "rating": 4.5,
+     "reviews": 27625,
+     "monthlySold": 30000,
+     "form": "gummy",
+     "doseMg": 500,
+     "servings": 30,
+     "pricePerServing": 0.43,
+     "asin": "B012RFVHSO"
+    }
+   ]
+  },
+  {
+   "slug": "creatine-monohydrate",
+   "nameEn": "Creatine Monohydrate",
+   "nameKo": "크레아틴 모노하이드레이트",
+   "aliasesKo": [
+    "크레아틴",
+    "크레아틴 일수화물"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 663
+   },
+   "monthlyRevenueUsd": 28289752.0,
+   "podcastMentions": 43,
+   "podcast": [
+    {
+     "speaker": "Stacy Sims",
+     "kind": "dose_timing",
+     "claim": "For cognitive issues related to severe stress, sleep deprivation, or fatigue, the excerpt discusses a 10 to 20 gram daily creatine dose taken across the day rather than all at once.",
+     "quote": "So, if we're looking at that 10 to 20 gram dose, you do want to take it across the day, not one big massive dose.",
+     "videoId": "-NiYfdoqN2g",
+     "t": 549,
+     "title": "How to Use Creatine for Muscle, Brain Power & Better Recovery",
+     "channel": "Dr. Stacy Sims",
+     "duration": 653
+    },
+    {
+     "speaker": "Stacy Sims",
+     "kind": "caveat",
+     "claim": "Creatine's use before anticipated poor sleep has not been definitively studied, although preloading seems logically helpful to the speaker.",
+     "quote": "Can we use it prophylactyally? And that research hasn't been done but is probably in ongoing. It just hasn't been published yet. From a logical standpoint, it seems like if you're preloading, then that's going to help. But I can't say definitively.",
+     "videoId": "-NiYfdoqN2g",
+     "t": 593,
+     "title": "How to Use Creatine for Muscle, Brain Power & Better Recovery",
+     "channel": "Dr. Stacy Sims",
+     "duration": 653
+    },
+    {
+     "speaker": "Stacy Sims",
+     "kind": "caveat",
+     "claim": "The guest says Creapure uses a water wash, while some cheaper creatine products use an acid-wash process that may leave residuals associated with side effects such as bloating and stomach discomfort.",
+     "quote": "So Creapure is a German company and it uses a water wash. Yeah. Yeah. To create the creatine monohydrate. If we're looking at the cheaper versions that might come from China or some other countries, it's primarily the idea of taking formaldahhide and converting it to creatine monohydrate. So, it's more of an acid wash and we have the residuals of that that can create the side effects that a lot of people are finding.",
+     "videoId": "-NiYfdoqN2g",
+     "t": 243,
+     "title": "How to Use Creatine for Muscle, Brain Power & Better Recovery",
+     "channel": "Dr. Stacy Sims",
+     "duration": 653
+    },
+    {
+     "speaker": "Stacy Sims",
+     "kind": "recommendation",
+     "claim": "The guest recommends starting with one gram and working up to five grams for people who are sensitive, says creatine can be taken any time of day, and advises disclosing its use before kidney-function tests because creatinine levels may be affected.",
+     "quote": "For people who are super sensitive and they're like, I'm not sure I want to supplement, then I recommend start with one and work your way up to five. Don't necessarily start with the five gram dose. When do you take it? Any time of day. You just mix it in with anything.",
+     "videoId": "-NiYfdoqN2g",
+     "t": 345,
+     "title": "How to Use Creatine for Muscle, Brain Power & Better Recovery",
+     "channel": "Dr. Stacy Sims",
+     "duration": 653
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "dose_timing",
+     "claim": "She says she takes 10 grams of creatine each morning.",
+     "quote": "I also take a lot of creatine in the morning. So, I do 10 grams a day in the morning.",
+     "videoId": "OCddz_0NrEE",
+     "t": 5399,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Tim Spector",
+     "kind": "anecdote",
+     "claim": "Tim tried creatine but stopped after seeing no noticeable benefit, finding it unpleasant-tasting, and judging the health benefits unclear, though he may reconsider it as evidence develops.",
+     "quote": "And so you looked at your biceps after a few weeks and you decided that you couldn't see any benefit. It tasted horrible. So you've junked it, but you're continuing to look at the data in terms of health benefits, which you don't think are clear yet, but you might re-evaluate that.",
+     "videoId": "bByTKLZcI20",
+     "t": 3098,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    }
+   ],
+   "reddit": "Reddit users generally view creatine monohydrate as one of the most effective and well-researched supplements available, with strong consensus on its benefits for strength, muscle building, and potentially cognition. However, there's growing awareness that it doesn't work the same for everyone, with notable subsets experiencing sleep issues, digestive problems, or other side effects. The community",
+   "products": [
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Creatine Monohydrate Micronized Powder 500G, 5000mg Per Serv (5g) - 100 Servings, 17.9 Oz",
+     "price": 20.43,
+     "rating": 4.7,
+     "reviews": 55961,
+     "monthlySold": 100000,
+     "form": "powder",
+     "doseMg": 5000,
+     "servings": 100,
+     "pricePerServing": 0.21,
+     "asin": "B00GL2HMES"
+    },
+    {
+     "brand": "THORNE",
+     "title": "THORNE Creatine - Micronized Creatine Monohydrate Powder - Support for Muscles & Cognitive Function* - for Women & Men - Unflavored - NSF Certified for Sport - 5 g per Serving - 90 Servings",
+     "price": 36.0,
+     "rating": 4.7,
+     "reviews": 15859,
+     "monthlySold": 100000,
+     "form": "powder",
+     "doseMg": 5000,
+     "servings": 90,
+     "pricePerServing": 0.4,
+     "asin": "B07978VPPH"
+    },
+    {
+     "brand": "Optimum Nutrition",
+     "title": "Optimum Nutrition Micronized Creatine Monohydrate Powder, Unflavored, 60 Servings, 300 Grams (Packaging May Vary)",
+     "price": 14.97,
+     "rating": 4.6,
+     "reviews": 96753,
+     "monthlySold": 90000,
+     "form": "powder",
+     "doseMg": 5000,
+     "servings": 60,
+     "pricePerServing": 0.25,
+     "asin": "B002DYIZEE"
+    }
+   ]
+  },
+  {
+   "slug": "omega-3-fatty-acids",
+   "nameEn": "Omega-3 Fatty Acids",
+   "nameKo": "오메가-3 지방산",
+   "aliasesKo": [
+    "n-3 지방산",
+    "오메가3"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 552
+   },
+   "monthlyRevenueUsd": 21458409.0,
+   "podcastMentions": 292,
+   "podcast": [
+    {
+     "speaker": "unknown",
+     "kind": "caveat",
+     "claim": "The speaker says preventing inflammation before it reaches a disease state may be easier than treating established disease, including in the context of omega-3 supplements.",
+     "quote": "Like you if you and it goes with anything like omega-3 supplements, anything, right? Like like it's always easier to help prevent like like you don't want all the inflammation to to get to the point where you're like already in the disease state, right?",
+     "videoId": "ELcVYRJJdK4",
+     "t": 4290,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "recommendation",
+     "claim": "The speaker considers omega-3s highly beneficial and says 80 to 90% of the population is not getting enough.",
+     "quote": "I do think it's an interesting area to keep keep my finger on the pulse but um because I'm so critical and evidence-based I still I I have to be like very balanced to talk about it and there's definitely no answer I want to hear. So, you basically just verbatim said what I thought you would because you're a researcher and I already knew sort of the answer, but I was asked to ask. So, so that that's kind of the deal. deal. Hey, I'm waiting. I'm waiting for the cool study. I'm like, I'll be the first to talk about it. So, on the ratio of EPA to DHA, I assume it depends on what you're going for and what you're treating, but generally speaking, can you just talk to that to the audience? Yeah, the ratio to EPA to DHA.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4530,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "anecdote",
+     "claim": "The speaker says moving from a low omega-3 index of 4% to a high index of 8% can increase life expectancy by 5 years.",
+     "quote": "That those are highly beneficial and that most people are, in fact, 80 to 90% of the population is deficient in omega-3. They're not getting enough. Yeah. and that you can essentially increase someone's life expectancy by 5 years by bringing them from a you know low omega-3 index which is 4% to a high index which is 8%.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4506,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "caveat",
+     "claim": "The speaker says even suboptimal or oxidized fish oil may still provide benefits, citing studies in which markers improved after people consumed oxidized fish oil.",
+     "quote": "They gave them they fed people oxidized um um fish oil and guess what? Markers were still improving and things were not going bad.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4785,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "dose_timing",
+     "claim": "The speaker recommends about two grams of fish oil daily, saying it can raise most people from a low omega-3 index of 4% to a high index and citing trials reporting lower cardiac risks.",
+     "quote": "You know, supplementing with the fish oil about two grams a day will get most people from a low index of 4% to a high omega-3 index.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4843,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "recommendation",
+     "claim": "Rhonda Patrick recommends measuring the omega-3 index and says people can take 1.5 to two grams a day, while four grams is prescribed to patients with high triglycerides or cardiovascular disease.",
+     "quote": "Well, I would say the omega-3 index. I only saw a couple of hands and I think that's like it's one of the it's one of the easiest things and you get a very robust effect in terms of the way you age, cardiovascular, brain, mood, muscle, endless, right? Life life expectancy. Super easy. You can get someone to take 1.5 to two grams a day. It's well below the four grams that is prescribed to patients with, you know, high triglycerides or cardiovascular disease.",
+     "videoId": "OCddz_0NrEE",
+     "t": 5155,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    }
+   ],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Sports Research",
+     "title": "Sports Research® Omega-3 Fish Oil 1250 - Triple Strength Fish Oil Supplement from Wild Alaska Pollock - MSC Certified Sustainable · Non-GMO · Soy Free - 90 Softgel Capsules",
+     "price": 22.36,
+     "rating": 4.7,
+     "reviews": 58303,
+     "monthlySold": 80000,
+     "form": "softgel",
+     "doseMg": 1250,
+     "servings": 90,
+     "pricePerServing": 0.25,
+     "asin": "B07DX89ZHN"
+    },
+    {
+     "brand": "NOW Foods",
+     "title": "NOW Foods Supplements, Omega-3 180 EPA / 120 DHA, Molecularly Distilled, Cardiovascular Support*, 200 Softgels",
+     "price": 14.69,
+     "rating": 4.7,
+     "reviews": 15673,
+     "monthlySold": 20000,
+     "form": "softgel",
+     "doseMg": 300,
+     "servings": 200,
+     "pricePerServing": 0.07,
+     "asin": "B001GCU6KA"
+    },
+    {
+     "brand": "Zesty Paws",
+     "title": "Zesty Paws Wild Alaskan Omega-3 Blend Pollock + Salmon Oil for Dogs and Cats- Skin and Coat Support, Omega 3 Supplement for Pets, 8.5oz",
+     "price": 16.97,
+     "rating": 4.4,
+     "reviews": 68672,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0CXKNLKMX"
+    }
+   ]
+  },
+  {
+   "slug": "whey-protein",
+   "nameEn": "Whey Protein",
+   "nameKo": "유청 단백질",
+   "aliasesKo": [
+    "웨이 프로틴",
+    "유청 단백"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 95
+   },
+   "monthlyRevenueUsd": 20172400.0,
+   "podcastMentions": 97,
+   "podcast": [
+    {
+     "speaker": "guest",
+     "kind": "anecdote",
+     "claim": "The speaker says she added whey protein powder to Greek yogurt to help meet her protein needs during pregnancy.",
+     "quote": "I would add some whey protein powder in there to make sure I was having enough protein.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 4798,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    }
+   ],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Optimum Nutrition",
+     "title": "Optimum Nutrition Gold Standard 100% Whey Protein Powder, Double Rich Chocolate 1.98 Pound (Packaging May Vary)",
+     "price": 35.99,
+     "rating": 4.6,
+     "reviews": 97210,
+     "monthlySold": 40000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B002DYIZH6"
+    },
+    {
+     "brand": "Isopure",
+     "title": "Isopure Zero Carb 100% Pure Whey Isolate Protein Powder, Gluten Free, with Vitamins, Unflavored, 25g Protein Per Serving, 1 Lb, 16 Servings (Packaging May Vary)",
+     "price": 29.03,
+     "rating": 4.4,
+     "reviews": 39538,
+     "monthlySold": 20000,
+     "form": "powder",
+     "doseMg": 25000,
+     "servings": 16,
+     "pricePerServing": 1.56,
+     "asin": "B00SCO8AA8"
+    },
+    {
+     "brand": "Dymatize",
+     "title": "Dymatize ISO100 Whey Protein Powder Isolate, Gourmet Vanilla, 25g of Protein, 5.5g BCAAs, Less Than 120 Cal., Gluten Free, 1g Fat, 1g Sugar, 2g Carb (20 Servings)",
+     "price": 33.43,
+     "rating": 4.6,
+     "reviews": 19541,
+     "monthlySold": 20000,
+     "form": "powder",
+     "doseMg": 25000,
+     "servings": 20,
+     "pricePerServing": 1.67,
+     "asin": "B099J2SWXV"
+    }
+   ]
+  },
+  {
+   "slug": "fiber",
+   "nameEn": "Fiber",
+   "nameKo": "식이섬유",
+   "aliasesKo": [
+    "섬유질",
+    "식이 섬유"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 1194
+   },
+   "monthlyRevenueUsd": 19893838.0,
+   "podcastMentions": 647,
+   "podcast": [
+    {
+     "speaker": "Michael Pollan",
+     "kind": "mechanism",
+     "claim": "Gut microbes use fiber from plant cell walls, and eating only meat may starve those microbes at a cost to health.",
+     "quote": "So, the the microbes in your gut eat fiber, which is to say the walls of plants, plant cells. If you only eat uh meat, if you're on a, you know, a keto diet or something like that, you're essentially starving the um the microbes and there's a, you know, cost to that.",
+     "videoId": "5QQun2pDQEs",
+     "t": 7516,
+     "title": "Joe Rogan Experience #2467 - Michael Pollan",
+     "channel": "Joe Rogan Experience",
+     "duration": 8639
+    },
+    {
+     "speaker": "Michael Pollan",
+     "kind": "recommendation",
+     "claim": "Pollan says plants are needed for a healthy microbiome, with different plants feeding different microbes.",
+     "quote": "Well, you need plants to have a healthy microbiome. and a healthy microbiome. And and the thing about it is that every different plant has a slightly different feeds a different",
+     "videoId": "5QQun2pDQEs",
+     "t": 7579,
+     "title": "Joe Rogan Experience #2467 - Michael Pollan",
+     "channel": "Joe Rogan Experience",
+     "duration": 8639
+    },
+    {
+     "speaker": "Dr. Herman Pontzer",
+     "kind": "mechanism",
+     "claim": "A higher-fiber diet tends to make people feel fuller on fewer calories, though the effect is not presented as universal.",
+     "quote": "And so, we know that a higher protein diet um a higher fiber diet um in some studies a higher fat diet, although it's not always seen tend to make us feel fuller on fewer calories, right?",
+     "videoId": "6GUWQuT-vRc",
+     "t": 2805,
+     "title": "Why You Can’t Exercise Your Way to Weight Loss | Dr. Herman Pontzer + Mike Haney",
+     "channel": "Dr. Casey Means",
+     "duration": 3193
+    },
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "Higher-fiber foods tend to help people feel full while eating fewer calories.",
+     "quote": "And so if you eat a higher protein diet or a higher fiber diet, those tend to fill those those foods tend to make you feel full on fewer calories. That's good evidence for that.",
+     "videoId": "6GUWQuT-vRc",
+     "t": 2929,
+     "title": "Why You Can’t Exercise Your Way to Weight Loss | Dr. Herman Pontzer + Mike Haney",
+     "channel": "Dr. Casey Means",
+     "duration": 3193
+    },
+    {
+     "speaker": "Layne Norton",
+     "kind": "recommendation",
+     "claim": "The speaker recommends eating enough fiber as part of a broader approach to health while noting that there are bigger health priorities than worrying about seed oils.",
+     "quote": "if you don't want to consume them, okay, I would just say try to limit your saturated fat, eat enough fiber, but outside of that, there's so many bigger levers that you can pull for your health than just worrying about seed oils.",
+     "videoId": "7_cbaDXAWYM",
+     "t": 662,
+     "title": "Cooking with Lard vs Seed Oils | Layne Norton, Ph.D.",
+     "channel": "Peter Attia",
+     "duration": 734
+    },
+    {
+     "speaker": "guest",
+     "kind": "mechanism",
+     "claim": "Fiber and water in whole fruit slow the arrival of its sugar in the bloodstream, while removing the fiber, as in orange juice, allows a larger glucose spike.",
+     "quote": "However, a piece of whole fruit also contains fiber and water. So even though it's been bred to have a lot of sugar, the fiber in the water reduce how quickly the sugar arrives in our bloodstream, making it more or less okay for us. But the problem comes when we denature that piece of fruit.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 362,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    }
+   ],
+   "reddit": "Psyllium husk emerges as the gold standard ingredient, with users preferring generic powder for cost-effectiveness despite taste/texture challenges. Heavy metal contamination is a growing concern, while gummy formats offer convenience but face texture and safety issues.",
+   "products": [
+    {
+     "brand": "Vitafusion",
+     "title": "Vitafusion Fiber Well Gummy Vitamins, 90 Count (Packaging May Vary)",
+     "price": 12.48,
+     "rating": 4.5,
+     "reviews": 20113,
+     "monthlySold": 60000,
+     "form": "gummy",
+     "doseMg": null,
+     "servings": 90,
+     "pricePerServing": null,
+     "asin": "B002NPCMJC"
+    },
+    {
+     "brand": "Metamucil",
+     "title": "Metamucil Fiber Gummies for Adults, No Sugar Added Orange Flavor, 5g Prebiotic Plant Based Fiber Supplement Blend, 120 Count",
+     "price": 23.99,
+     "rating": 4.5,
+     "reviews": 15945,
+     "monthlySold": 60000,
+     "form": "gummy",
+     "doseMg": 5000,
+     "servings": 120,
+     "pricePerServing": null,
+     "asin": "B0BDP24LP4"
+    },
+    {
+     "brand": "Metamucil",
+     "title": "Metamucil 4-in-1 Psyllium Husk GLP-1 Friendly Fiber Supplement, Sugar-Free, 180 teaspoons, Orange Flavored, Daily Fiber Powder for Digestive Health, made with Plant-Based Psyllium Husk Fiber",
+     "price": 34.97,
+     "rating": 4.7,
+     "reviews": 34281,
+     "monthlySold": 50000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 180,
+     "pricePerServing": 0.19,
+     "asin": "B003CT2YQY"
+    }
+   ]
+  },
+  {
+   "slug": "vitamin-d3",
+   "nameEn": "Vitamin D3",
+   "nameKo": "비타민 D3",
+   "aliasesKo": [
+    "비타민D3",
+    "콜레칼시페롤"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 135
+   },
+   "monthlyRevenueUsd": 18907369.0,
+   "podcastMentions": 575,
+   "podcast": [
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "dose_timing",
+     "claim": "Rhonda Patrick says she takes vitamin D at night.",
+     "quote": "And then at night, I'm doing a lot of stuff. I mean, I'm doing the magnesium. I'm doing um more omega-3. I do the vitamin D, vitamin K2.",
+     "videoId": "OCddz_0NrEE",
+     "t": 5413,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Tim Spector",
+     "kind": "anecdote",
+     "claim": "Tim Spector says he had described vitamin D as a sham for 20 years but has changed his view after seeing studies suggesting that is not completely true.",
+     "quote": "I've been for the last 20 years saying vitamin D is a sham. But there are some studies that convince me that's not completely true.",
+     "videoId": "bByTKLZcI20",
+     "t": 19,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    },
+    {
+     "speaker": "Tim Spector",
+     "kind": "contradiction",
+     "claim": "Vitamin D is not useful for preventing fractures in the vast majority of people, despite earlier findings based on bone biomarkers and smaller studies.",
+     "quote": "And that's now why osteoporosis experts know that vitamin D is not useful for the vast majority of people in preventing fractures.",
+     "videoId": "bByTKLZcI20",
+     "t": 632,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    },
+    {
+     "speaker": "Tim Spector",
+     "kind": "anecdote",
+     "claim": "Tim Spector says he previously promoted vitamin D for osteoporosis but changed his view after larger studies found no difference in fracture rates.",
+     "quote": "I was fooled by vitamin D and I was a big promoter of vitamin D back in the day for osteoporosis and uh it's still being used because most doctors haven't changed their practice.",
+     "videoId": "bByTKLZcI20",
+     "t": 640,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    },
+    {
+     "speaker": "Tim Spector",
+     "kind": "recommendation",
+     "claim": "The speaker recommends getting winter sunlight while avoiding sunburn, saying it may provide important chemicals and that winter sun protection is not useful for preventing wrinkles.",
+     "quote": "Winter is a time when we should be getting as much sun as we can. that will help get a lot of these important chemicals from the sun.",
+     "videoId": "bByTKLZcI20",
+     "t": 2280,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    },
+    {
+     "speaker": "Tim Spector",
+     "kind": "anecdote",
+     "claim": "Tim Spector says his vitamin D level was borderline in winter, doubled after returning from Australia, and he prefers sunlight to vitamin D tablets.",
+     "quote": "I didn't take any vitamin D tablets, but I did recheck my vitamin D having just come back from Australia and my vitamin D has gone up, you know, has doubled um just from a bit of winter sunshine.",
+     "videoId": "bByTKLZcI20",
+     "t": 2044,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    }
+   ],
+   "reddit": "Reddit users view Vitamin D3 as essential, especially for those in low-sunlight regions, with many reporting dramatic improvements in energy, mood, and immunity once adequate levels are achieved. The consensus emphasizes the importance of proper dosing (often higher than standard recommendations), cofactors like K2 and magnesium, and blood testing to determine individual needs.",
+   "products": [
+    {
+     "brand": "Sports Research",
+     "title": "Sports Research® Vitamin D3 + K2 w/ Coconut Oil - Vegan Vitamin D 5000iu & Mk7 Vitamin K 100mcg for Bone & Immune Support - Vegan Certified · Non-GMO · Soy Free - 60 Softgels",
+     "price": 19.16,
+     "rating": 4.7,
+     "reviews": 51867,
+     "monthlySold": 90000,
+     "form": "softgel",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B07255MPRN"
+    },
+    {
+     "brand": "NatureWise",
+     "title": "NatureWise Vitamin D3 5000iu (125 mcg) 1 Year Supply for Immune Support, Healthy Muscle Function, and Bone Health - Non-GMO, Gluten Free in Organic Extra Virgin Olive Oil, (Mini Softgel), 360 Count",
+     "price": 14.99,
+     "rating": 4.7,
+     "reviews": 191874,
+     "monthlySold": 70000,
+     "form": "softgel",
+     "doseMg": null,
+     "servings": 360,
+     "pricePerServing": null,
+     "asin": "B00GB85JR4"
+    },
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Vitamin D3 1000 IU (25 mcg), Vitamin D Supplement for Bone, Teeth, Muscle and Immune Health Support, 300 Softgels, 300 Day Supply",
+     "price": 9.99,
+     "rating": 4.8,
+     "reviews": 55362,
+     "monthlySold": 40000,
+     "form": "softgel",
+     "doseMg": null,
+     "servings": 300,
+     "pricePerServing": null,
+     "asin": "B004U3Y8OM"
+    }
+   ]
+  },
+  {
+   "slug": "dha",
+   "nameEn": "DHA",
+   "nameKo": "DHA",
+   "aliasesKo": [
+    "도코사헥사엔산"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 292
+   },
+   "monthlyRevenueUsd": 18749062.0,
+   "podcastMentions": 3,
+   "podcast": [
+    {
+     "speaker": "Dr. Rhonda Patrick",
+     "kind": "mechanism",
+     "claim": "DHA supports cell-membrane fluidity, including in neurons and vascular cells, and may help maintain the structure and function of receptors and transporters involved in neurotransmission and glucose transport.",
+     "quote": "DHA is predominantly found in our cell membranes. It plays a role in the fluidity of our membrane.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4571,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Dr. Rhonda Patrick",
+     "kind": "mechanism",
+     "claim": "The guest describes DHA as important for muscle tissue and cites studies suggesting that higher DHA levels may have effects there.",
+     "quote": "So the so DHA plays a very important role in a lot of functions also muscle tissue.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4647,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "mechanism",
+     "claim": "The speaker notes that prescription Lovaza contains EPA and DHA and says a study's secondary outcomes showed about a 30% lower heart attack risk compared with placebo.",
+     "quote": "They were given like 800 milligrams of uh Lovesa. So that's the pres prescription form of omega-3. That's EPA and DHA. Um if we look at secondary outcomes, these individuals had about a 30% lower um uh heart attack risk compared to placebo.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4881,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "mechanism",
+     "claim": "DHA in muscle can increase sensitivity to amino acids, supporting muscle protein synthesis and helping prevent disuse-related muscle atrophy.",
+     "quote": "levels of DHA in the muscle can make it can sensitize it to amino acids. So that plays a role in obviously muscle protein synthesis and um preventing muscle atrophy as a um function of disuse.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4661,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "recommendation",
+     "claim": "She suggests prioritizing DHA for brain-related concerns such as a family history of Alzheimer's disease, dementia, or Parkinson's disease, while emphasizing that omega-3 choices depend on the health outcome being targeted.",
+     "quote": "If you're someone that's really you've you've got a familial history of Alzheimer's disease or dementia or Parkinson's disease, brain neurogenerative disorders really focus is DHA. So I think it depends on what outcome we're looking at.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4688,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "DHA helps a baby’s neurons connect, and animal studies cited by the speaker found impacts on brain development when maternal DHA was restricted.",
+     "quote": "Now, omega-3s and in particular one omega-3 called DHA, it helps your baby's neurons connect with each other. And this is really important. And in animal studies, when scientists restrict how much DHA a mother has access to, they see measurable impact on the baby's brain.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 3511,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    }
+   ],
+   "reddit": "Reddit discussions reveal omega-3/DHA supplements are popular for brain health and pregnancy, but quality and tolerability are major concerns. Many users experience fishy burps and nausea, leading to preference for whole food sources or algae alternatives. There's growing awareness that supplements may be rancid and that individual responses vary significantly, with some people experiencing mood w",
+   "products": [
+    {
+     "brand": "MAV NUTRITION",
+     "title": "Triple Strength DHA Omega 3 Fish Oil 3600 mg | Over 2100mg Omega-3 Fatty Acids with 860mg of DHA | 1300mg EPA | Best Essential Fatty Acids | Premium Wild Caught & Burpless Fish Oil | 120 ct.",
+     "price": 21.98,
+     "rating": 4.6,
+     "reviews": 28756,
+     "monthlySold": 30000,
+     "form": "softgel",
+     "doseMg": 3600,
+     "servings": 120,
+     "pricePerServing": null,
+     "asin": "B01NBTJFJB"
+    },
+    {
+     "brand": "NOW Foods",
+     "title": "NOW Foods Supplements, Omega-3 180 EPA / 120 DHA, Molecularly Distilled, Cardiovascular Support*, 200 Softgels",
+     "price": 14.69,
+     "rating": 4.7,
+     "reviews": 15679,
+     "monthlySold": 20000,
+     "form": "softgel",
+     "doseMg": 300,
+     "servings": 200,
+     "pricePerServing": null,
+     "asin": "B001GCU6KA"
+    },
+    {
+     "brand": "Amazon Basics",
+     "title": "Amazon Basics Prenatal & DHA Gummy, Rasberry & Lemon Flavor, 90 Count (Previously Solimo)",
+     "price": 6.78,
+     "rating": 4.6,
+     "reviews": 6944,
+     "monthlySold": 10000,
+     "form": "gummy",
+     "doseMg": null,
+     "servings": 45,
+     "pricePerServing": 0.15,
+     "asin": "B08P7QMWTW"
+    }
+   ]
+  },
+  {
+   "slug": "electrolytes",
+   "nameEn": "Electrolytes",
+   "nameKo": "전해질",
+   "aliasesKo": [
+    "전해질 성분"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 124
+   },
+   "monthlyRevenueUsd": 17806520.0,
+   "podcastMentions": 218,
+   "podcast": [],
+   "reddit": "Reddit users generally believe electrolyte supplements work but are frustrated by high prices and artificial ingredients. There's strong demand for natural, low-sugar options that don't rely on stevia or artificial sweeteners, with many users turning to DIY solutions or coconut water as alternatives.",
+   "products": [
+    {
+     "brand": "Drink LMNT",
+     "title": "LMNT Zero Sugar Electrolytes - Watermelon Salt | Drink Mix | 30-Count",
+     "price": 45.0,
+     "rating": 4.7,
+     "reviews": 6229,
+     "monthlySold": 40000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.5,
+     "asin": "B08ZJQ1XD4"
+    },
+    {
+     "brand": "Drink LMNT",
+     "title": "LMNT Zero Sugar Electrolytes - Raspberry Salt | Drink Mix | 30-Count",
+     "price": 45.0,
+     "rating": 4.6,
+     "reviews": 5947,
+     "monthlySold": 40000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.5,
+     "asin": "B07SH31T9V"
+    },
+    {
+     "brand": "Nectar",
+     "title": "Nectar Hydration Packets - Electrolytes Powder Packets - Sugar Free & 0 Calorie - Organic Fruit Liquid Daily IV Electrolytes Powder for Dehydration Relief and Rehydration (Variety 30 Pack)",
+     "price": 29.9,
+     "rating": 4.3,
+     "reviews": 11620,
+     "monthlySold": 30000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.0,
+     "asin": "B09BD8GZ8L"
+    }
+   ]
+  },
+  {
+   "slug": "fish-oil-omega-3",
+   "nameEn": "Fish Oil (Omega-3)",
+   "nameKo": "오메가3",
+   "aliasesKo": [
+    "생선 기름",
+    "어유",
+    "오메가-3"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 265
+   },
+   "monthlyRevenueUsd": 17749645.0,
+   "podcastMentions": 344,
+   "podcast": [
+    {
+     "speaker": "Mark Hyman",
+     "kind": "recommendation",
+     "claim": "Mark Hyman recommends a high-quality omega-3 fish oil to lower triglycerides, inflammation, and blood pressure.",
+     "quote": "First, you want a good high quality omega three fish oil to lower your triglycerides and inflammation and your blood blood pressure.",
+     "videoId": "F7n4duUjplQ",
+     "t": 1347,
+     "title": "Normal Cholesterol But Still Getting Heart Disease? Here's Why | Dr. Mark Hyman",
+     "channel": "Dr. Mark Hyman",
+     "duration": 1458
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "recommendation",
+     "claim": "The speaker says omega-3s are highly beneficial and that 80 to 90% of the population does not get enough.",
+     "quote": "I am confident. Yeah. Yeah. That those are highly beneficial and that most people are, in fact, 80 to 90% of the population is deficient in omega-3. They're not getting enough.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4504,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "mechanism",
+     "claim": "The speaker says DHA supports cell-membrane fluidity and that insufficient DHA may impair neurotransmitter receptor structure and glucose transport into the brain.",
+     "quote": "DHA is predominantly found in our cell membranes. It plays a role in the fluidity of our membrane.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4571,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "mechanism",
+     "claim": "The speaker says DHA may sensitize muscle to amino acids, supporting muscle protein synthesis and helping prevent disuse-related muscle atrophy.",
+     "quote": "levels of DHA in the muscle can make it can sensitize it to amino acids. So that plays a role in obviously muscle protein synthesis and um preventing muscle atrophy as a um function of disuse.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4661,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "recommendation",
+     "claim": "The speaker recommends about two grams of fish oil daily for most people and says the preferred EPA-to-DHA balance depends on the health outcome of interest.",
+     "quote": "I like to get both, but really uh depression is interestingly um EPA because of the anti-inflammatory effect as well. But um so my thoughts are here it's not just a one-sizefits-all. It's like what endpoint are we looking at here, right?",
+     "videoId": "OCddz_0NrEE",
+     "t": 4708,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "dose_timing",
+     "claim": "She takes omega-3s in the morning and more at night.",
+     "quote": "And then I do some omega-3s in the morning as well. And then at night, I'm doing a lot of stuff. I mean, I'm doing the magnesium. I'm doing um more omega-3.",
+     "videoId": "OCddz_0NrEE",
+     "t": 5410,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    }
+   ],
+   "reddit": "Reddit discussions show strong preference for Sports Research and Nordic Naturals as top-tier brands, with Sports Research gaining favor due to Costco pricing and IFOS certification. Users are increasingly sophisticated about oxidation levels, triglyceride vs ethyl ester forms, and third-party testing, with growing skepticism of budget brands that fail quality tests. The market shows tension betwe",
+   "products": [
+    {
+     "brand": "Sports Research",
+     "title": "Sports Research® Omega-3 Fish Oil 1250 - Triple Strength Fish Oil Supplement from Wild Alaska Pollock - MSC Certified Sustainable · Non-GMO · Soy Free - 90 Softgel Capsules",
+     "price": 27.95,
+     "rating": 4.7,
+     "reviews": 58495,
+     "monthlySold": 80000,
+     "form": "softgel",
+     "doseMg": 1250,
+     "servings": 90,
+     "pricePerServing": 0.25,
+     "asin": "B07DX89ZHN"
+    },
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Fish Oil Omega 3 Supplements, 1000mg Softgels, Omega 3 Fish Oil for Healthy Heart Support, 250 Softgels, 125 Day Supply",
+     "price": 14.89,
+     "rating": 4.8,
+     "reviews": 46798,
+     "monthlySold": 50000,
+     "form": "softgel",
+     "doseMg": 1000,
+     "servings": 250,
+     "pricePerServing": 0.06,
+     "asin": "B0046XC528"
+    },
+    {
+     "brand": "Nature's Bounty",
+     "title": "Nature's Bounty Fish Oil Omega 3 Supplements - Supports Heart Health, 1200 Mg Fish Oil, Omega-3, 200 Softgels (Pack of 1)",
+     "price": 14.17,
+     "rating": 4.7,
+     "reviews": 74470,
+     "monthlySold": 30000,
+     "form": "softgel",
+     "doseMg": 1200,
+     "servings": 200,
+     "pricePerServing": null,
+     "asin": "B000NPYY04"
+    }
+   ]
+  },
+  {
+   "slug": "gelatin",
+   "nameEn": "Gelatin",
+   "nameKo": "젤라틴",
+   "aliasesKo": [],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 119
+   },
+   "monthlyRevenueUsd": 17048172.0,
+   "podcastMentions": 5,
+   "podcast": [],
+   "reddit": "Strong consumer interest in gelatin as a cost-effective alternative to expensive collagen supplements, with many users reporting positive results for joint pain, sleep, and beauty benefits. However, heavy metal contamination concerns with major brands and taste/digestibility issues create barriers to adoption.",
+   "products": [
+    {
+     "brand": "Nunaturals",
+     "title": "NuNaturals Unflavored Beef Gelatin Powder, Instantly Thickens, Stabilizes, and Texturizes, 1 lb",
+     "price": 20.49,
+     "rating": 4.6,
+     "reviews": 3999,
+     "monthlySold": 10000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B01IE65OI4"
+    },
+    {
+     "brand": "It's Just!",
+     "title": "It's Just - 100% Gelatin Powder (2lb) Unflavored, Heavy Metal Tested, Grass-Fed Bovine (Beef) Source, Non-GMO, Keto Friendy, Perfect for Marshmallows, Gummies, Desserts, 32oz",
+     "price": 28.99,
+     "rating": 4.6,
+     "reviews": 951,
+     "monthlySold": 10000,
+     "form": "gummy",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0DFN8KFSD"
+    },
+    {
+     "brand": "Knox",
+     "title": "Knox Original Unflavored Gelatin, 32 ct Packets",
+     "price": 15.98,
+     "rating": 4.5,
+     "reviews": 21742,
+     "monthlySold": 7000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 32,
+     "pricePerServing": 0.5,
+     "asin": "B007Y3HM5C"
+    }
+   ]
+  },
+  {
+   "slug": "multivitamin",
+   "nameEn": "Multivitamin",
+   "nameKo": "종합비타민",
+   "aliasesKo": [
+    "멀티비타민",
+    "종합 비타민"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 117
+   },
+   "monthlyRevenueUsd": 16965616.0,
+   "podcastMentions": 105,
+   "podcast": [
+    {
+     "speaker": "guest",
+     "kind": "caveat",
+     "claim": "Nicotinamide is present at usually low doses in probably every multivitamin.",
+     "quote": "It's in pro probably every multivitamin.",
+     "videoId": "ELcVYRJJdK4",
+     "t": 3159,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "Mark Hyman",
+     "kind": "recommendation",
+     "claim": "Mark Hyman recommends a good-quality multivitamin-mineral to cover nutritional gaps such as folate, zinc, and magnesium.",
+     "quote": "Next, want a good quality multivitamin mineral. Cover all the gaps, folate, zinc, magnesium.",
+     "videoId": "F7n4duUjplQ",
+     "t": 1367,
+     "title": "Normal Cholesterol But Still Getting Heart Disease? Here's Why | Dr. Mark Hyman",
+     "channel": "Dr. Mark Hyman",
+     "duration": 1458
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "recommendation",
+     "claim": "Rhonda Patrick recommends a simple multivitamin.",
+     "quote": "Also, a multivitamin, honestly. Um, simple simple multivitamin.",
+     "videoId": "OCddz_0NrEE",
+     "t": 5183,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "dose_timing",
+     "claim": "She takes a multivitamin in the morning as part of her supplement routine.",
+     "quote": "And then in the morning, my other vitamin is a multivitamin I do in the morning.",
+     "videoId": "OCddz_0NrEE",
+     "t": 5401,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    }
+   ],
+   "reddit": "Reddit consensus is deeply split on multivitamins - many view them as beneficial 'insurance policies' for nutritional gaps, while others criticize popular brands like Centrum for poor absorption and quality. Users consistently emphasize that benefits are mainly seen when addressing actual deficiencies, not as general health boosters.",
+   "products": [
+    {
+     "brand": "Centrum",
+     "title": "Centrum Silver Women's Multivitamin for Women 50 Plus, Multivitamin/Multimineral Supplement with Vitamin D3, B Vitamins, Non-GMO Ingredients, Supports Memory and Cognition in Older Adults - 200 Ct",
+     "price": 19.12,
+     "rating": 4.8,
+     "reviews": 32785,
+     "monthlySold": 50000,
+     "form": "tablet",
+     "doseMg": null,
+     "servings": 200,
+     "pricePerServing": 0.1,
+     "asin": "B09KCCVL9V"
+    },
+    {
+     "brand": "ONE A DAY",
+     "title": "One A Day Multivitamin for Women- Daily Vitamins for Woman with Biotin, Calcium, Folic Acid, Iron & Zinc, Complete Women’s Vitamins, 200 Ct (Packaging May Vary)",
+     "price": 17.47,
+     "rating": 4.7,
+     "reviews": 16945,
+     "monthlySold": 30000,
+     "form": "tablet",
+     "doseMg": null,
+     "servings": 200,
+     "pricePerServing": 0.09,
+     "asin": "B09QBKGDLS"
+    },
+    {
+     "brand": "OLLY",
+     "title": "OLLY Women's Multivitamin Gummy, Vitamins A, D, C, E, Biotin, Folic Acid, Adult Chewable Vitamin, Berry Flavor, 45 Day Supply - 90 Count",
+     "price": 11.47,
+     "rating": 4.6,
+     "reviews": 46111,
+     "monthlySold": 30000,
+     "form": "gummy",
+     "doseMg": null,
+     "servings": 45,
+     "pricePerServing": 0.25,
+     "asin": "B014G4AY1A"
+    }
+   ]
+  },
+  {
+   "slug": "b-vitamins",
+   "nameEn": "B Vitamins",
+   "nameKo": "비타민 B군",
+   "aliasesKo": [
+    "B군 비타민"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 84
+   },
+   "monthlyRevenueUsd": 16605344.0,
+   "podcastMentions": 125,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Pure Encapsulations",
+     "title": "Pure Encapsulations B-Complex Plus - B Vitamins Supplement to Support Neurological Health, Cardiovascular Health, Energy Levels & Nervous System Support* - with Vitamin B12 & More - 120 Capsules",
+     "price": 42.0,
+     "rating": 4.7,
+     "reviews": 10729,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 120,
+     "pricePerServing": 0.35,
+     "asin": "B00JYFN6DU"
+    },
+    {
+     "brand": "Igennus Healthcare Nutrition",
+     "title": "Igennus Super B-Complex Methylated B Vitamins - Sustained Release, Clean Label & High Absorption, with 5-MTHF Folate & Methyl B12, Energy, Mood & Cognitive Performance, Lab Verified, 60 Small Tablets",
+     "price": 18.81,
+     "rating": 4.6,
+     "reviews": 27620,
+     "monthlySold": 10000,
+     "form": "tablet",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": 0.31,
+     "asin": "B01787EPEE"
+    }
+   ]
+  },
+  {
+   "slug": "magnesium-threonate",
+   "nameEn": "Magnesium Threonate",
+   "nameKo": "마그네슘 트레오네이트",
+   "aliasesKo": [
+    "트레온산 마그네슘"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 0
+   },
+   "monthlyRevenueUsd": 15858420.0,
+   "podcastMentions": 25,
+   "podcast": [
+    {
+     "speaker": "Mark Hyman",
+     "kind": "mechanism",
+     "claim": "Magnesium may help relax blood vessels and support insulin and blood sugar regulation and heart rhythm.",
+     "quote": "Magnesium, really important. Helps relax your blood vessels, helps with insulin, blood sugar regulation. Heart rhythm also is helped by that.",
+     "videoId": "F7n4duUjplQ",
+     "t": 1378,
+     "title": "Normal Cholesterol But Still Getting Heart Disease? Here's Why | Dr. Mark Hyman",
+     "channel": "Dr. Mark Hyman",
+     "duration": 1458
+    },
+    {
+     "speaker": "Mark Hyman",
+     "kind": "recommendation",
+     "claim": "The speaker prefers magnesium glycinate, or magnesium citrate for people who are constipated.",
+     "quote": "I like magnesium glycinate, or if you're constipated, you can use magnesium citrate.",
+     "videoId": "F7n4duUjplQ",
+     "t": 1385,
+     "title": "Normal Cholesterol But Still Getting Heart Disease? Here's Why | Dr. Mark Hyman",
+     "channel": "Dr. Mark Hyman",
+     "duration": 1458
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "mechanism",
+     "claim": "Magnesium is needed for more than 300 enzymes, energy production, and DNA repair, and inadequate intake may affect bone health and contribute to cancer risk over time.",
+     "quote": "it is a co-actor for over 300 enzymes, important to make energy. You can't make ETP without magnesium. You also need it uh to repair damage to your DNA.",
+     "videoId": "OCddz_0NrEE",
+     "t": 4971,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "recommendation",
+     "claim": "Rhonda Patrick favors magnesium glycinate, especially at night, and says magnesium oxide is poorly bioavailable while evidence for magnesium threonate’s cognitive effects remains preliminary.",
+     "quote": "The classic one that people used to take, magnesium dioxide, terrible. Um it's just not bioavailable at all. Um so forget that form. ... Magnesium glycinate I like to take because um at night especially",
+     "videoId": "OCddz_0NrEE",
+     "t": 5023,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "dose_timing",
+     "claim": "She takes magnesium at night as part of her supplement routine.",
+     "quote": "And then at night, I'm doing a lot of stuff. I mean, I'm doing the magnesium.",
+     "videoId": "OCddz_0NrEE",
+     "t": 5413,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    }
+   ],
+   "reddit": "Reddit users are divided on Magnesium L-Threonate - many praise its unique ability to cross the blood-brain barrier for cognitive and sleep benefits, but are frustrated by the high cost due to patent monopoly. While some experience significant improvements in sleep quality and mental clarity, others report side effects like anxiety and vivid dreams, leading many to stick with cheaper alternatives ",
+   "products": [
+    {
+     "brand": "Life Extension",
+     "title": "Life Extension Neuro-Mag Magnesium L-Threonate, Memory Health, Quick Thinking, Cognitive Health Support, Vegetarian, Non-GMO, 90 Vegetarian Capsules (144 mg from 2000 mg Magtein magnesium L-threonate",
+     "price": 30.79,
+     "rating": 4.6,
+     "reviews": 23797,
+     "monthlySold": 60000,
+     "form": "capsule",
+     "doseMg": 144,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B006P536E6"
+    },
+    {
+     "brand": "Sports Research",
+     "title": "Sports Research® Magnesium L-Threonate Capsules 2000mg - High-Absorption Magtein® for Enhanced Brain Health, Memory, Focus & Restful Sleep Support - Vegan · Non-GMO · Gluten Free - 90 Count",
+     "price": 29.95,
+     "rating": 4.7,
+     "reviews": 2154,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": 2000,
+     "servings": 90,
+     "pricePerServing": null,
+     "asin": "B0B336FCWC"
+    },
+    {
+     "brand": "KAPPA NUTRITION",
+     "title": "Kappa Nutrition Powered by Magbrain™ Magnesium L-Threonate Plant-Based, 60 Vegan Capsules, 420mg Elemental Magnesium (3 Capsules) from 2,253mg, Brain, Sleep & Muscle Support.",
+     "price": 12.99,
+     "rating": 4.6,
+     "reviews": 6103,
+     "monthlySold": 8000,
+     "form": "capsule",
+     "doseMg": 420,
+     "servings": 3,
+     "pricePerServing": null,
+     "asin": "B0DQVP7MQG"
+    }
+   ]
+  },
+  {
+   "slug": "psyllium",
+   "nameEn": "Psyllium",
+   "nameKo": "차전자피",
+   "aliasesKo": [
+    "실리엄"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 46
+   },
+   "monthlyRevenueUsd": 15575135.0,
+   "podcastMentions": 12,
+   "podcast": [],
+   "reddit": "Reddit users view psyllium as a highly effective, underrated supplement with benefits extending far beyond digestive health to include appetite control, blood sugar regulation, and even skin health. While Metamucil is trusted, there's strong preference for cheaper generic alternatives, with users frequently sharing DIY approaches and cost-saving tips.",
+   "products": [
+    {
+     "brand": "Metamucil",
+     "title": "Metamucil 4-in-1 Psyllium Husk GLP-1 Friendly Fiber Supplement, Sugar-Free, 180 teaspoons, Orange Flavored, Daily Fiber Powder for Digestive Health, made with Plant-Based Psyllium Husk Fiber",
+     "price": 34.97,
+     "rating": 4.7,
+     "reviews": 34380,
+     "monthlySold": 50000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B003CT2YQY"
+    },
+    {
+     "brand": "Metamucil",
+     "title": "Metamucil, Psyllium Husk Capsules, 300 Capsules, 3-in-1 Fiber Supplement, Daily Psyllium Husk Fiber Capsules Help Support Digestive Health by Promoting Regularity*, Help Supplement Daily Fiber Intake",
+     "price": 31.24,
+     "rating": 4.6,
+     "reviews": 24294,
+     "monthlySold": 40000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 300,
+     "pricePerServing": null,
+     "asin": "B001TH7K0G"
+    },
+    {
+     "brand": "NOW Foods",
+     "title": "NOW Foods Supplements, Psyllium Husk Caps 500 mg, Non-GMO Project Verified, Natural Soluble Fiber, Intestinal Health*, 200 Veg Capsules",
+     "price": 11.0,
+     "rating": 4.6,
+     "reviews": 30789,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": 500,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B005P0XUAM"
+    }
+   ]
+  },
+  {
+   "slug": "vitamin-k2",
+   "nameEn": "Vitamin K2",
+   "nameKo": "비타민 K2",
+   "aliasesKo": [
+    "K2 비타민"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 27
+   },
+   "monthlyRevenueUsd": 15573155.0,
+   "podcastMentions": 19,
+   "podcast": [],
+   "reddit": "Reddit users view Vitamin K2 as an essential cofactor for Vitamin D3, particularly valuing its cardiovascular and bone health benefits. Sports Research emerges as a popular choice despite some quality control concerns, while users actively debate optimal dosing and seek alternatives to avoid common side effects like anxiety and headaches.",
+   "products": [
+    {
+     "brand": "Bronson",
+     "title": "Bronson Vitamin K2 D3 (MK7) Supplement Non-GMO Formula Vitamin D3 5000IU (125 mcg) & 90 mcg K2 MK-7, Easy to Swallow D & K Complex, 60 Capsules",
+     "price": 8.97,
+     "rating": 4.7,
+     "reviews": 39171,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B0779M341X"
+    },
+    {
+     "brand": "Micro Ingredients",
+     "title": "Micro Ingredients Vitamin D3 10,000 IU + K2 MK-7 200 mcg, 300 Softgels with Virgin Coconut Oil | 2-in-1 Vitamins D & K Complex | Extra Strength, Easy to Swallow, Non-GMO, Gluten Free",
+     "price": 27.96,
+     "rating": 4.7,
+     "reviews": 15777,
+     "monthlySold": 30000,
+     "form": "softgel",
+     "doseMg": null,
+     "servings": 300,
+     "pricePerServing": null,
+     "asin": "B07YMJLTR6"
+    },
+    {
+     "brand": "Bronson",
+     "title": "Bronson Vitamin K2 (MK7) with D3 Supplement Non-GMO Formula 5000 IU Vitamin D3 & 90 mcg K2 MK-7 Easy to Swallow D & K Complex, 120 Capsules",
+     "price": 13.49,
+     "rating": 4.7,
+     "reviews": 39171,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 120,
+     "pricePerServing": null,
+     "asin": "B0771R5L28"
+    }
+   ]
+  },
+  {
+   "slug": "folic-acid",
+   "nameEn": "Folic Acid",
+   "nameKo": "엽산",
+   "aliasesKo": [
+    "비타민 B9"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 577
+   },
+   "monthlyRevenueUsd": 14584921.0,
+   "podcastMentions": 122,
+   "podcast": [
+    {
+     "speaker": "host",
+     "kind": "caveat",
+     "claim": "The speaker says that people who already have cancer may not want to take many supplements, including folate, because supplements could potentially accelerate tumor growth.",
+     "quote": "if you already have a bunch of tumors and then you're giving you know a bunch of whether it's folate or NAD or something you might expect um rapid cancer growth",
+     "videoId": "ELcVYRJJdK4",
+     "t": 5373,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "Tim Spector",
+     "kind": "anecdote",
+     "claim": "Spector takes folic acid supplements because his levels have been low and he believes supplementation may benefit cognition in older adults.",
+     "quote": "I always struggle to keep these levels up. Obviously I was completely uh vegetarian for six years or so. I now do eat some meat but I really hard to get those levels up.",
+     "videoId": "bByTKLZcI20",
+     "t": 1842,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    },
+    {
+     "speaker": "Tim Spector",
+     "kind": "recommendation",
+     "claim": "Spector advises against routine folic acid supplementation for everyone, recommending blood testing to determine whether supplementation is needed because excess folate may have adverse effects.",
+     "quote": "So, I definitely don't think everybody should be doing this, but get a blood test, get checked out, and see if you really need this stuff.",
+     "videoId": "bByTKLZcI20",
+     "t": 1983,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    },
+    {
+     "speaker": "guest",
+     "kind": "recommendation",
+     "claim": "The guest says she chose a prenatal supplement containing methylated folate because she considers it better absorbed and says folate is important for preventing miscarriage.",
+     "quote": "And I made sure it had a type of folic acid called metilated folate, which is better absorbed. And folate is very important to prevent miscarriage.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 3642,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    }
+   ],
+   "reddit": "Reddit discussions reveal deep concerns about folic acid supplementation, particularly around MTHFR gene mutations affecting 40-60% of the population who cannot properly process synthetic folic acid. While folic acid is widely recommended for pregnancy to prevent neural tube defects, many users are shifting toward methylated forms or questioning whether fortification in foods is causing more harm ",
+   "products": [
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Super B Complex with Vitamin C & Folic Acid, B Complex Vitamins for Women and Men, Dietary Supplement for Immune Support, 140 Tablets, 140 Day Supply",
+     "price": 8.49,
+     "rating": 4.7,
+     "reviews": 42126,
+     "monthlySold": 40000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B005D0DTS2"
+    },
+    {
+     "brand": "Ritual",
+     "title": "Ritual Prenatal Vitamins for Women Folate & Choline for Neural Tube Support, Omega-3 DHA for Fetal Brain Development, Iron, Calcium-Helper D3 & K2, Non-GMO, Vegan, Citrus, 30 Days",
+     "price": 42.98,
+     "rating": 4.2,
+     "reviews": 5392,
+     "monthlySold": 40000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B09W363MVD"
+    },
+    {
+     "brand": "THORNE",
+     "title": "THORNE - Basic Prenatal - Well-Researched Folate Multi for Pregnant & Nursing Women - Includes 18 Vitamins & Minerals, Plus Choline - Third-Party Certified - Gluten, Dairy & Soy-Free - 30 Servings",
+     "price": 29.0,
+     "rating": 4.3,
+     "reviews": 6408,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": null,
+     "asin": "B00O59SH3E"
+    }
+   ]
+  },
+  {
+   "slug": "vitamin-b6",
+   "nameEn": "Vitamin B6",
+   "nameKo": "비타민 B6",
+   "aliasesKo": [
+    "피리독신"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 135
+   },
+   "monthlyRevenueUsd": 14178244.0,
+   "podcastMentions": 13,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Vitamin B6 100mg, B6 Vitamins for Energy Metabolism Support, 100 Tablets, 100 Day Supply",
+     "price": 10.48,
+     "rating": 4.7,
+     "reviews": 5898,
+     "monthlySold": 10000,
+     "form": "tablet",
+     "doseMg": 100,
+     "servings": 100,
+     "pricePerServing": 0.1,
+     "asin": "B018EAQ6YG"
+    },
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Vitamin B6 (Pyridoxine HCl) 100mg, 240 Capsules",
+     "price": 11.95,
+     "rating": 4.7,
+     "reviews": 4326,
+     "monthlySold": 4000,
+     "form": "capsule",
+     "doseMg": 100,
+     "servings": 240,
+     "pricePerServing": null,
+     "asin": "B01IJ32F34"
+    },
+    {
+     "brand": "Pure Encapsulations",
+     "title": "Pure Encapsulations P5P 50 - Active Vitamin B6 - Supports Energy Metabolism & Brain Health* - Gluten Free & Non-GMO - 60 Capsules",
+     "price": 20.5,
+     "rating": 4.7,
+     "reviews": 1861,
+     "monthlySold": 4000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B07G2K22X2"
+    }
+   ]
+  },
+  {
+   "slug": "beet-root",
+   "nameEn": "Beet Root",
+   "nameKo": "비트 뿌리",
+   "aliasesKo": [
+    "비트",
+    "비트루트"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 11
+   },
+   "monthlyRevenueUsd": 13113870.0,
+   "podcastMentions": 36,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Humann",
+     "title": "Humann SuperBeets Heart Chews, Beet Root Powder Support Energy Supplement, Nitric Oxide and Blood Pressure Support, Grape Seed Extract & Non-GMO, Heart Health, Pomegranate Berry Flavor, 60 Count",
+     "price": 39.95,
+     "rating": 4.5,
+     "reviews": 74558,
+     "monthlySold": 40000,
+     "form": "chewable",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": 0.67,
+     "asin": "B07SRK1F3Y"
+    },
+    {
+     "brand": "Rosabella",
+     "title": "Rosabella Organic Beet Root Capsules - 1300mg Beet Root Powder Aids Healthy Circulation & Vitality, Non-GMO, Beet Root Supplement - 60 Capsules, 30-Day Supply",
+     "price": 34.99,
+     "rating": 4.4,
+     "reviews": 8470,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": 1300,
+     "servings": 30,
+     "pricePerServing": 0.99,
+     "asin": "B0F161HQ6C"
+    },
+    {
+     "brand": "Humann",
+     "title": "Humann SuperBeets Beet Root Capsules Quick Release 1000mg, Helps Support Nitric Oxide Production, Blood Pressure Support, Heart Health, Contains Non-GMO Beetroot Powder, Studied Antioxidants, 90 Count",
+     "price": 24.95,
+     "rating": 4.5,
+     "reviews": 9507,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 1000,
+     "servings": 90,
+     "pricePerServing": 0.28,
+     "asin": "B0BMPR69TW"
+    }
+   ]
+  },
+  {
+   "slug": "probiotics",
+   "nameEn": "Probiotics",
+   "nameKo": "프로바이오틱스",
+   "aliasesKo": [
+    "유산균"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 2218
+   },
+   "monthlyRevenueUsd": 13000780.0,
+   "podcastMentions": 430,
+   "podcast": [
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "In a randomized trial, participants taking over-the-counter probiotics showed a change in only one gut bacterium, which was the bacterium present in the probiotic.",
+     "quote": "We saw only one bug, didn't we, change, which was the bug that was from the probiotic.",
+     "videoId": "xELtC21lAW0",
+     "t": 2451,
+     "title": "Groundbreaking research reveals the 50 NEW gut bacteria you need to reshape body fat",
+     "channel": "Dr. Tim Spector",
+     "duration": 3736
+    },
+    {
+     "speaker": "host",
+     "kind": "contradiction",
+     "claim": "In the discussed trial, taking a probiotic moved just one of the microbes, whereas a 30-plant supplement increased many of the good microbes.",
+     "quote": "And really interestingly, you know, when you took a probiotic, you moved just one of those microbes, whereas with these 30 plants, you actually increased many, many of these good bugs.",
+     "videoId": "xELtC21lAW0",
+     "t": 3632,
+     "title": "Groundbreaking research reveals the 50 NEW gut bacteria you need to reshape body fat",
+     "channel": "Dr. Tim Spector",
+     "duration": 3736
+    }
+   ],
+   "reddit": "Reddit users are divided on probiotics, with many preferring fermented foods like kefir and kimchi over expensive supplements. While some report significant benefits for digestive and mental health, others emphasize the lack of regulation and scientific consensus, leading to a preference for food-based sources as more reliable and cost-effective alternatives.",
+   "products": [
+    {
+     "brand": "Physician's CHOICE",
+     "title": "Physician's CHOICE Probiotics 60 Billion CFU - 10 Strains + Organic Prebiotics - Immune, Digestive & Gut Health - Supports Occasional Constipation, Diarrhea, Gas & Bloating - for Women & Men - 30ct",
+     "price": 23.97,
+     "rating": 4.6,
+     "reviews": 140783,
+     "monthlySold": 100000,
+     "form": "capsule",
+     "doseMg": 60000,
+     "servings": 30,
+     "pricePerServing": 0.8,
+     "asin": "B079H53D2B"
+    },
+    {
+     "brand": "Garden of Life",
+     "title": "Garden of Life Once Daily Dr. Formulated Probiotics for Women 50 Billion CFU 16 Probiotic Strains with Organic Prebiotics for Digestive, Vaginal & Immune Health, Dairy Free, Shelf Stable 30 Capsules",
+     "price": 31.99,
+     "rating": 4.6,
+     "reviews": 59481,
+     "monthlySold": 90000,
+     "form": "capsule",
+     "doseMg": 50000,
+     "servings": 30,
+     "pricePerServing": 0.77,
+     "asin": "B00Y8MP4G6"
+    },
+    {
+     "brand": "Physician's CHOICE",
+     "title": "Physician's CHOICE Probiotics for Women - PH Balance, Digestive, UT, & Feminine Health - 50 Billion CFU - 6 Unique Strains for Her - Organic Prebiotics, Cranberry Extract+ - Women Probiotic - 30 CT",
+     "price": 19.97,
+     "rating": 4.6,
+     "reviews": 55105,
+     "monthlySold": 60000,
+     "form": "capsule",
+     "doseMg": 50000,
+     "servings": 30,
+     "pricePerServing": 0.67,
+     "asin": "B07B8BSGPL"
+    }
+   ]
+  },
+  {
+   "slug": "coq10-coenzyme-q10",
+   "nameEn": "CoQ10 (Coenzyme Q10)",
+   "nameKo": "코엔자임 Q10",
+   "aliasesKo": [
+    "CoQ10",
+    "코큐텐"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 120
+   },
+   "monthlyRevenueUsd": 12026965.0,
+   "podcastMentions": 42,
+   "podcast": [],
+   "reddit": "Reddit users view CoQ10 as a promising but expensive supplement with mixed results - while many report significant benefits for fertility, energy, and chronic conditions, others experience no effects or problematic side effects like insomnia. The fertility community shows strongest adoption with high-dose protocols, while chronic illness patients seek it for mitochondrial support with variable suc",
+   "products": [
+    {
+     "brand": "Qunol",
+     "title": "Qunol Ultra CoQ10 100mg Softgels- 3x Better Absorption, Antioxidant for Heart Health & Energy Production, Coenzyme Q10 Vitamins and Supplements, 3 Month Supply, 90 Count",
+     "price": 25.99,
+     "rating": 4.7,
+     "reviews": 22376,
+     "monthlySold": 40000,
+     "form": "softgel",
+     "doseMg": 100,
+     "servings": 90,
+     "pricePerServing": 0.23,
+     "asin": "B0BL1Z8MVD"
+    },
+    {
+     "brand": "Qunol",
+     "title": "Qunol Ultra CoQ10 100mg, 3x Better Absorption, Patented Water and Fat Soluble Natural Supplement Form of Coenzyme Q10, Antioxidant for Heart Health, 120 Count Softgels",
+     "price": 29.97,
+     "rating": 4.7,
+     "reviews": 59480,
+     "monthlySold": 30000,
+     "form": "softgel",
+     "doseMg": 100,
+     "servings": 120,
+     "pricePerServing": 0.25,
+     "asin": "B0055OUOQQ"
+    },
+    {
+     "brand": "Natures Craft",
+     "title": "Natures Craft Red Yeast Rice with CoQ10 Supplement - Advanced Healthy Heart & Healthy Cholesterol Levels Formula for Men & Women - Red Yeast Rice Capsules with 1200 mg per Serving and CoQ10-120 Count",
+     "price": 21.99,
+     "rating": 4.6,
+     "reviews": 7188,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 1200,
+     "servings": 60,
+     "pricePerServing": 0.33,
+     "asin": "B09J9C9F3G"
+    }
+   ]
+  },
+  {
+   "slug": "curcumin",
+   "nameEn": "Curcumin",
+   "nameKo": "커큐민",
+   "aliasesKo": [
+    "쿠르쿠민"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 562
+   },
+   "monthlyRevenueUsd": 11980700.0,
+   "podcastMentions": 55,
+   "podcast": [],
+   "reddit": "Reddit users are generally positive about curcumin's anti-inflammatory benefits but frustrated by bioavailability issues and quality inconsistencies. There's strong consensus that premium formulations like Longvida and Life Extension work better than basic turmeric supplements, though concerns about liver toxicity and hormonal effects create hesitation. The community emphasizes the importance of p",
+   "products": [
+    {
+     "brand": "BioSchwartz",
+     "title": "Turmeric Curcumin with Black Pepper Extract 1500mg - High Absorption Ultra Potent Turmeric Supplement with 95% Curcuminoids and BioPerine - Non GMO Tumeric Capsules for Joint Support - 90 Capsules",
+     "price": 18.79,
+     "rating": 4.6,
+     "reviews": 103407,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": 1500,
+     "servings": 45,
+     "pricePerServing": 0.42,
+     "asin": "B01DBTFO98"
+    },
+    {
+     "brand": "NatureWise",
+     "title": "NatureWise Curcumin Turmeric 2250mg - 95% Curcuminoids & BioPerine Black Pepper Extract for Advanced Absorption - Daily Joint and Immune Health Support - Vegan, Non-GMO, 180 Count[60-Day Supply]",
+     "price": 21.49,
+     "rating": 4.6,
+     "reviews": 57999,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": 2250,
+     "servings": 60,
+     "pricePerServing": 0.3,
+     "asin": "B01BMDAVIY"
+    },
+    {
+     "brand": "Qunol",
+     "title": "Qunol Turmeric Curcumin with Black Pepper & Ginger, 2400mg Turmeric Extract with 95% Curcuminoids, Extra Strength Supplement, Enhanced Absorption, Joint Support Supplement, 105 Count",
+     "price": 28.99,
+     "rating": 4.5,
+     "reviews": 15871,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": 2400,
+     "servings": 105,
+     "pricePerServing": 0.28,
+     "asin": "B09YGG58LZ"
+    }
+   ]
+  },
+  {
+   "slug": "turmeric-curcumin",
+   "nameEn": "Turmeric (Curcumin)",
+   "nameKo": "강황(커큐민)",
+   "aliasesKo": [
+    "울금(커큐민)",
+    "터메릭(커큐민)"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 200
+   },
+   "monthlyRevenueUsd": 11362445.0,
+   "podcastMentions": 94,
+   "podcast": [],
+   "reddit": "Reddit discussions reveal turmeric/curcumin as a polarizing supplement with devoted advocates and frustrated skeptics. While many users report significant benefits for joint pain and inflammation, the supplement faces major challenges with bioavailability, safety concerns (especially liver toxicity), and highly variable individual responses. Success often depends on finding the right formulation w",
+   "products": [
+    {
+     "brand": "NatureWise",
+     "title": "NatureWise Curcumin Turmeric 2250mg - 95% Curcuminoids & BioPerine Black Pepper Extract for Advanced Absorption - Daily Joint and Immune Health Support - Vegan, Non-GMO, 180 Count[60-Day Supply]",
+     "price": 18.25,
+     "rating": 4.6,
+     "reviews": 57754,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": 2250,
+     "servings": 60,
+     "pricePerServing": 0.3,
+     "asin": "B01BMDAVIY"
+    },
+    {
+     "brand": "BioSchwartz",
+     "title": "Turmeric Curcumin with Black Pepper Extract 1500mg - High Absorption Ultra Potent Turmeric Supplement with 95% Curcuminoids and BioPerine - Non GMO Tumeric Capsules for Joint Support - 90 Capsules",
+     "price": 18.79,
+     "rating": 4.6,
+     "reviews": 103274,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 1500,
+     "servings": 90,
+     "pricePerServing": 0.21,
+     "asin": "B01DBTFO98"
+    },
+    {
+     "brand": "Qunol",
+     "title": "Qunol Turmeric Curcumin with Black Pepper & Ginger, 2400mg Turmeric Extract with 95% Curcuminoids, Extra Strength Supplement, Enhanced Absorption, Joint Support Supplement, 105 Count",
+     "price": 28.99,
+     "rating": 4.5,
+     "reviews": 15755,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 2400,
+     "servings": 105,
+     "pricePerServing": 0.28,
+     "asin": "B09YGG58LZ"
+    }
+   ]
+  },
+  {
+   "slug": "sleep-support-complex",
+   "nameEn": "Sleep Support Complex",
+   "nameKo": "수면 복합제",
+   "aliasesKo": [
+    "수면 보조 복합제"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 8464
+   },
+   "monthlyRevenueUsd": 11207978.0,
+   "podcastMentions": 0,
+   "podcast": [
+    {
+     "speaker": "Andy Galpin",
+     "kind": "recommendation",
+     "claim": "Keeping a consistent sleep schedule is often the first step the speaker examines when someone has poor HRV, and HRV almost always rises when sleep timing becomes consistent.",
+     "quote": "Once we get people sleeping just in a consistent time, HRV almost always goes up. It in fact so much so it is very often the first thing I look at when somebody asks me about their HRV",
+     "videoId": "mfUO1CaEMBw",
+     "t": 3656,
+     "title": "Enhance Your Physical & Mental Resilience (HRV, Respiratory Rate, RHR)",
+     "channel": "Dr. Andy Galpin",
+     "duration": 7733
+    },
+    {
+     "speaker": "Andy Galpin",
+     "kind": "caveat",
+     "claim": "The speaker advises against making decisions about whether to exercise or sleep based on a single day's reading from a cheap consumer wearable.",
+     "quote": "So we never make changes based on one day. We never use a cheap consumer wearable to tell us how to live our life. To exercise today or to not exercise, to sleep today or to not sleep today.",
+     "videoId": "mfUO1CaEMBw",
+     "t": 3612,
+     "title": "Enhance Your Physical & Mental Resilience (HRV, Respiratory Rate, RHR)",
+     "channel": "Dr. Andy Galpin",
+     "duration": 7733
+    }
+   ],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "THORNE",
+     "title": "THORNE - Magnesium Glycinate - Supports Restful Sleep, Muscle Relaxation, Heart Health & Metabolism* - Chelated Magnesium Capsules - Third-Party Certified - Gluten, Dairy & Soy-Free - 90 Servings",
+     "price": 25.0,
+     "rating": 4.7,
+     "reviews": 1527,
+     "monthlySold": 60000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 90,
+     "pricePerServing": 0.28,
+     "asin": "B0F5XYHRPV"
+    },
+    {
+     "brand": "Natrol",
+     "title": "Natrol 10 mg Melatonin Gummies, Sleep Support for Adults, Melatonin Supplements for Sleeping, 90 Strawberry-Flavored Gummies, 45 Day Supply",
+     "price": 10.98,
+     "rating": 4.6,
+     "reviews": 52383,
+     "monthlySold": 40000,
+     "form": "gummy",
+     "doseMg": 10,
+     "servings": 45,
+     "pricePerServing": 0.24,
+     "asin": "B079TD7HG2"
+    },
+    {
+     "brand": "Nobi Nutrition",
+     "title": "Magnesium Glycinate 500mg | High Absorption | Sleep, Muscle, Bone, Heart Health & Relaxation Support for Women & Men | Chelated Mag Glycinate | Magnesium Supplement | Vegan & Non-GMO | 120 Capsules",
+     "price": 15.99,
+     "rating": 4.6,
+     "reviews": 4756,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 500,
+     "servings": 120,
+     "pricePerServing": 0.13,
+     "asin": "B0CWM5K6W6"
+    }
+   ]
+  },
+  {
+   "slug": "calcium",
+   "nameEn": "Calcium",
+   "nameKo": "칼슘",
+   "aliasesKo": [
+    "칼슘제"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 3099
+   },
+   "monthlyRevenueUsd": 10865610.0,
+   "podcastMentions": 242,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Calcium 600 mg with Vitamin D3, Dietary Supplement for Bone Support, 220 Tablets",
+     "price": 10.19,
+     "rating": 4.7,
+     "reviews": 26619,
+     "monthlySold": 20000,
+     "form": "tablet",
+     "doseMg": 600,
+     "servings": 220,
+     "pricePerServing": 0.05,
+     "asin": "B002FH5I0I"
+    },
+    {
+     "brand": "Nature's Bounty",
+     "title": "Nature's Bounty Calcium 1200 mg with 1000 IU Vitamin D3 - Bone Health Softgels, Calcium and Vitamin D Supplement, Gluten Free, 2 Softgels per Day, 120 ct (Pack of 1)",
+     "price": 8.87,
+     "rating": 4.6,
+     "reviews": 41724,
+     "monthlySold": 10000,
+     "form": "softgel",
+     "doseMg": 1200,
+     "servings": 60,
+     "pricePerServing": 0.15,
+     "asin": "B0016KITZ6"
+    },
+    {
+     "brand": "CITRACAL",
+     "title": "Citracal Petites- Calcium Citrate with Vitamin D3, Bone Health Support, Calcium Supplement for Ages 12+, 375 Count (Packaging May Vary)",
+     "price": 15.45,
+     "rating": 4.7,
+     "reviews": 8011,
+     "monthlySold": 10000,
+     "form": "tablet",
+     "doseMg": 500,
+     "servings": 125,
+     "pricePerServing": 0.12,
+     "asin": "B07RCJY6WD"
+    }
+   ]
+  },
+  {
+   "slug": "glucosamine-chondroitin",
+   "nameEn": "Glucosamine Chondroitin",
+   "nameKo": "글루코사민·콘드로이틴",
+   "aliasesKo": [
+    "글루코사민 콘드로이틴",
+    "글루코사민과 콘드로이틴"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 16
+   },
+   "monthlyRevenueUsd": 10683619.0,
+   "podcastMentions": 4,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Vimerson Health",
+     "title": "Glucosamine Chondroitin MSM – Joint Support Supplement for Women and Men with Glucosamine Sulfate 1500 mg, Chondroitin and MSM – for Cartilage, Joint Health and Flexibility – 90 Capsules",
+     "price": 28.97,
+     "rating": 4.5,
+     "reviews": 42939,
+     "monthlySold": 40000,
+     "form": "capsule",
+     "doseMg": 1500,
+     "servings": 90,
+     "pricePerServing": null,
+     "asin": "B01GVJK3XW"
+    },
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Glucosamine Chondroitin Complex with MSM, Dietary MSM Glucosamine Chondroitin Supplement for Joint Support, 120 Caplets, 60 Day Supply",
+     "price": 19.49,
+     "rating": 4.6,
+     "reviews": 8464,
+     "monthlySold": 20000,
+     "form": "caplet",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": 0.32,
+     "asin": "B09YDMDMDP"
+    },
+    {
+     "brand": "VETIQ",
+     "title": "VetIQ Glucosamine Hip & Joint Supplement for Dogs, 180 Soft Chews, Joint Support Supplement with MSM and Krill, Dog Health Supplies Large & Small Breed, Chicken Flavored Chewables",
+     "price": 19.06,
+     "rating": 4.6,
+     "reviews": 29324,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B01AMTU1ZM"
+    }
+   ]
+  },
+  {
+   "slug": "glycine",
+   "nameEn": "Glycine",
+   "nameKo": "글리신",
+   "aliasesKo": [
+    "글라이신"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 143
+   },
+   "monthlyRevenueUsd": 10597095.0,
+   "podcastMentions": 55,
+   "podcast": [
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "mechanism",
+     "claim": "The speaker says magnesium glycinate supplies glycine, which may help with sleep, and describes magnesium glycinate as highly bioavailable.",
+     "quote": "Magnesium glycinate I like to take because um at night especially because glycine so it's it's attached to a glycine molecule and so if you're taking glycinate or bislycinate that's two glycines you end up you end up getting glycine as well which is also seems to help with sleep a little bit.",
+     "videoId": "OCddz_0NrEE",
+     "t": 5053,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    }
+   ],
+   "reddit": "Glycine is viewed as a powerful but unpredictable supplement with strong advocates and notable detractors. While many users report life-changing improvements in sleep and anxiety, a significant minority experience paradoxical stimulating effects, leading to careful brand selection and dosing experimentation. The supplement attracts both casual sleep seekers and serious biohackers pursuing longevit",
+   "products": [
+    {
+     "brand": "Life Extension",
+     "title": "Life Extension Glycine, 1000 mg, Amino Acid That Promotes Healthy Sleep, Gluten-Free, Non-GMO, Vegetarian, 100 Capsules",
+     "price": 12.0,
+     "rating": 4.6,
+     "reviews": 3075,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": 1000,
+     "servings": 100,
+     "pricePerServing": 0.12,
+     "asin": "B00B35A394"
+    },
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Glycine Powder 1lb - Non-GMO, Gluten Free",
+     "price": 21.95,
+     "rating": 4.7,
+     "reviews": 1252,
+     "monthlySold": 9000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B09F83CPX8"
+    },
+    {
+     "brand": "THORNE",
+     "title": "THORNE - Glycine - Supports Relaxation, Stress Management, Detoxification & Healthy Muscle Function* - Amino Acid Supplement - Third-Party Certified - Gluten, Dairy & Soy-Free - 250 Capsules",
+     "price": 31.0,
+     "rating": 4.6,
+     "reviews": 1288,
+     "monthlySold": 8000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 250,
+     "pricePerServing": 0.12,
+     "asin": "B000VYRROC"
+    }
+   ]
+  },
+  {
+   "slug": "berberine",
+   "nameEn": "Berberine",
+   "nameKo": "베르베린",
+   "aliasesKo": [
+    "베르베린 염산염"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 110
+   },
+   "monthlyRevenueUsd": 10405860.0,
+   "podcastMentions": 32,
+   "podcast": [],
+   "reddit": "Reddit sees berberine as a legitimate supplement with real benefits for blood sugar control and appetite suppression, but warns extensively about side effects and quality issues. Users view it as 'nature's metformin' but emphasize the need for caution, proper dosing, and brand selection. The community is split between enthusiastic supporters who've seen dramatic results and skeptics who experience",
+   "products": [
+    {
+     "brand": "THORNE",
+     "title": "THORNE - Berberine - Dual Action Formula with Phytosome Plus Botanical Extract - Support Heart Health, Immune System, Healthy GI & Cholesterol* - Gluten-Free - 30 Servings",
+     "price": 44.0,
+     "rating": 4.4,
+     "reviews": 6122,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.47,
+     "asin": "B009LI7VRC"
+    },
+    {
+     "brand": "Clean Nutraceuticals",
+     "title": "Clean Nutra Berberine with Ceylon Cinnamon Supplement Liquid Drops + Bitter Melon Extract, Glucomannan, Gymnema, Chromium, Turmeric, Organic Panax Ginseng, Moringa GLP-1 Support",
+     "price": 29.95,
+     "rating": 4.4,
+     "reviews": 3962,
+     "monthlySold": 30000,
+     "form": "liquid",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0D75VX5ML"
+    },
+    {
+     "brand": "Nature's Bounty",
+     "title": "Nature’s Bounty Berberine 1000mg Capsules, Supports Heart Health, Cholesterol & Blood Sugar Levels in a Normal Range, Non-GMO Supplement, 60 Count",
+     "price": 19.98,
+     "rating": 4.5,
+     "reviews": 3129,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 1000,
+     "servings": 60,
+     "pricePerServing": 0.33,
+     "asin": "B0CNQC2TWG"
+    }
+   ]
+  },
+  {
+   "slug": "essential-amino-acids",
+   "nameEn": "Essential Amino Acids",
+   "nameKo": "필수 아미노산",
+   "aliasesKo": [
+    "EAA",
+    "필수 아미노산류"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 32
+   },
+   "monthlyRevenueUsd": 10227936.0,
+   "podcastMentions": 80,
+   "podcast": [],
+   "reddit": "Reddit discussions show limited specific interest in Essential Amino Acid supplements, with users generally preferring whole protein sources or individual amino acids for specific purposes. The consensus is that EAA supplements are expensive and unnecessary for most people eating varied diets, though there's some interest in their use for hair health and mood support.",
+   "products": [
+    {
+     "brand": "Double Wood Supplements",
+     "title": "Essential Amino Acids - 1 Gram Per Serving Powder Blend of All 9 Essential Aminos (EAA) and All Branched-Chain Aminos (BCAAs) (Leucine, Isoleucine, Valine) 225 Capsules, Gluten Free by Double Wood",
+     "price": 19.95,
+     "rating": 4.6,
+     "reviews": 7337,
+     "monthlySold": 8000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 225,
+     "pricePerServing": null,
+     "asin": "B0844KTVZN"
+    },
+    {
+     "brand": "THORNE",
+     "title": "THORNE - Amino Complex - Clinically-Validated EAA and BCAA Powder for Pre or Post-Workout - Promotes Lean Muscle Mass & Exercise Recovery* - Berry - NSF Certified for Sport - Dairy-Free - 30 Servings",
+     "price": 44.97,
+     "rating": 4.3,
+     "reviews": 1946,
+     "monthlySold": 5000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": null,
+     "asin": "B00K0WQK0W"
+    },
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost EAA Powder 30 Servings (Fruit Punch) - Essential Amino Acids - Non-GMO, Gluten Free, Vegetarian Friendly",
+     "price": 19.95,
+     "rating": 4.7,
+     "reviews": 724,
+     "monthlySold": 3000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": null,
+     "asin": "B09SPDV3JK"
+    }
+   ]
+  },
+  {
+   "slug": "vitamin-c",
+   "nameEn": "Vitamin C",
+   "nameKo": "비타민 C",
+   "aliasesKo": [
+    "비타민씨",
+    "아스코르브산"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 637
+   },
+   "monthlyRevenueUsd": 10155647.0,
+   "podcastMentions": 191,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Vitamin C 1000 mg Extra Strength, Dietary Supplement for Immune Support, 100 Tablets, 100 Day Supply",
+     "price": 9.5,
+     "rating": 4.8,
+     "reviews": 34636,
+     "monthlySold": 50000,
+     "form": "tablet",
+     "doseMg": 1000,
+     "servings": 100,
+     "pricePerServing": 0.1,
+     "asin": "B0000DJASY"
+    },
+    {
+     "brand": "Emergen-C",
+     "title": "Emergen-C 1000mg Vitamin C Powder for Daily Immune Support Caffeine Free Vitamin C Supplements with Zinc and Manganese, B Vitamins and Electrolytes, Super Orange Flavor - 30 Count",
+     "price": 12.98,
+     "rating": 4.8,
+     "reviews": 53467,
+     "monthlySold": 30000,
+     "form": "powder",
+     "doseMg": 1000,
+     "servings": 30,
+     "pricePerServing": 0.43,
+     "asin": "B00016RL9G"
+    },
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Extra Strength Dosage Vitamin C 500 mg per serving, Dietary Supplement, Vitamin C Gummies for Immune Support, 60 Gummies, 30 Day Supply",
+     "price": 11.49,
+     "rating": 4.8,
+     "reviews": 7047,
+     "monthlySold": 20000,
+     "form": "gummy",
+     "doseMg": 500,
+     "servings": 30,
+     "pricePerServing": 0.38,
+     "asin": "B08FNSB7YN"
+    }
+   ]
+  },
+  {
+   "slug": "black-seed-oil",
+   "nameEn": "Black Seed Oil",
+   "nameKo": "블랙시드 오일",
+   "aliasesKo": [
+    "블랙커민씨 오일",
+    "흑종초씨 오일"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 2
+   },
+   "monthlyRevenueUsd": 10000700.0,
+   "podcastMentions": 2,
+   "podcast": [],
+   "reddit": "Reddit discussions reveal Black Seed Oil as a polarizing supplement with strong advocates praising its anti-inflammatory and mood benefits, while others report significant adverse effects like brain fog and anxiety. The taste barrier and inconsistent quality across brands remain major challenges, though users who find the right brand and dosing often become very loyal. The supplement attracts dive",
+   "products": [
+    {
+     "brand": "Resilia Oil Of Oregano",
+     "title": "Resilia Softgels with Black Seed Oil 6000mg – Organic Oregano Oil Capsules for Immune & Digestive Support – Non-GMO, Gluten-Free Softgels – Natural Herbal Wellness Supplement (60 Count)",
+     "price": 29.99,
+     "rating": 4.2,
+     "reviews": 4435,
+     "monthlySold": 90000,
+     "form": "softgel",
+     "doseMg": 6000,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B0FZC2FVKW"
+    },
+    {
+     "brand": "Clean Nutraceuticals",
+     "title": "Clean Nutraceuticals Sea Moss Black Seed Oil Ashwagandha Turmeric Bladderwrack Burdock & Vitamin C Vitamin D3 with Elderberry Manuka Dandelion Yellow Dock Iodine Chlorophyll ACV",
+     "price": 29.52,
+     "rating": 4.4,
+     "reviews": 25405,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0BG94RWYN"
+    },
+    {
+     "brand": "HUYEHF",
+     "title": "Sea Moss Black Seed Oil Ashwagandha Ginger, Sea Moss Capsule Supplement with Turmeric Burdock Root Bladderwrack Vitamin C Vitamin D3 Enhanced Immunity & Energy Black Seed Oil Capsule 60 Count",
+     "price": 9.99,
+     "rating": 4.6,
+     "reviews": 1654,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B0DR18Q7W8"
+    }
+   ]
+  },
+  {
+   "slug": "liver-support-complex",
+   "nameEn": "Liver Support Complex",
+   "nameKo": "간 건강 복합 성분",
+   "aliasesKo": [
+    "간 지원 복합체"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 9544
+   },
+   "monthlyRevenueUsd": 9919524.0,
+   "podcastMentions": 0,
+   "podcast": [],
+   "reddit": "Reddit users are split between those who see dramatic results from liver support supplements (especially with bloodwork proof) and medical professionals who advocate for lifestyle changes over supplementation. Cost and quality concerns drive users toward proven brands, while the lack of regulation creates skepticism about marketing claims.",
+   "products": [
+    {
+     "brand": "Dose for Your Liver",
+     "title": "Dose for Your Liver Cleanse Detox & Repair, Made with Organic Milk Thistle Supplement with Turmeric, Dandelion, Ginger, and Orange, Supports Healthy Liver Function,16oz Bottle, 3 Pack (3 Week Supply)",
+     "price": 99.0,
+     "rating": 4.5,
+     "reviews": 6407,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0CNSCNJB5"
+    },
+    {
+     "brand": "Natures Craft",
+     "title": "Liver Cleanse Detox & Repair - Milk Thistle Supplement for Digestion & Immune Health - Ginger Root, Choline & Dandelion Root - Herbal Liver Support with Silymarin, Beetroot & Artichoke - 70 Count",
+     "price": 24.99,
+     "rating": 4.5,
+     "reviews": 44579,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 70,
+     "pricePerServing": null,
+     "asin": "B01NCUJPBF"
+    },
+    {
+     "brand": "Ancestral Supplements",
+     "title": "Ancestral Supplements Grass Fed Beef Liver 180 Capsules, Supports Energy Production, Detoxification, Digestion, Immunity and Full Body Wellness, Non-GMO, Freeze Dried Liver Health Supplement",
+     "price": 38.0,
+     "rating": 4.6,
+     "reviews": 20066,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": 750,
+     "servings": 180,
+     "pricePerServing": null,
+     "asin": "B01MSBZYQW"
+    }
+   ]
+  },
+  {
+   "slug": "prenatal-vitamins",
+   "nameEn": "Prenatal Vitamins",
+   "nameKo": "임산부 종합비타민",
+   "aliasesKo": [
+    "산전 비타민",
+    "임신부 비타민"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 2
+   },
+   "monthlyRevenueUsd": 9886546.0,
+   "podcastMentions": 10,
+   "podcast": [
+    {
+     "speaker": "guest",
+     "kind": "recommendation",
+     "claim": "She chose a prenatal supplement with choline and methylated folate, which she said is better absorbed, and said folate is important for preventing miscarriage.",
+     "quote": "And then I had a sort of normal prenatal supplement, but I made sure it had choline in it. And I made sure it had a type of folic acid called metilated folate, which is better absorbed. And folate is very important to prevent miscarriage.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 3638,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    }
+   ],
+   "reddit": "Reddit discussions reveal a polarized prenatal vitamin market between affordable, doctor-recommended options like Nature Made and expensive premium brands like Ritual and FullWell. Users prioritize tolerability during pregnancy over brand prestige, with many questioning whether premium prices deliver meaningful benefits beyond basic nutrient coverage and USP verification.",
+   "products": [
+    {
+     "brand": "Ritual",
+     "title": "Ritual Prenatal Vitamins for Women Folate & Choline for Neural Tube Support, Omega-3 DHA for Fetal Brain Development, Iron, Calcium-Helper D3 & K2, Non-GMO, Vegan, Citrus, 30 Days",
+     "price": 42.98,
+     "rating": 4.2,
+     "reviews": 5998,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.43,
+     "asin": "B09W363MVD"
+    },
+    {
+     "brand": "Pink Stork",
+     "title": "Pink Stork Total Prenatal Vitamins with DHA, Folate, Iron, Choline, and Vitamin B12 - Prenatals for Women to Support Fetal Development, Pregnancy Essentials, Berry Essence, 60 Capsules, 1 Month Supply",
+     "price": 32.99,
+     "rating": 4.3,
+     "reviews": 9208,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.1,
+     "asin": "B07G4C85XX"
+    },
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Prenatal Vitamins for Women with Folic Acid + DHA, Prenatal Vitamin and Mineral Supplement for Daily Nutritional Support, 110 Softgels, 110 Day Supply",
+     "price": 17.21,
+     "rating": 4.7,
+     "reviews": 25809,
+     "monthlySold": 10000,
+     "form": "softgel",
+     "doseMg": null,
+     "servings": 110,
+     "pricePerServing": 0.16,
+     "asin": "B07BXVFC32"
+    }
+   ]
+  },
+  {
+   "slug": "digestive-enzymes",
+   "nameEn": "Digestive Enzymes",
+   "nameKo": "소화효소",
+   "aliasesKo": [
+    "소화 효소"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 17
+   },
+   "monthlyRevenueUsd": 9790312.0,
+   "podcastMentions": 47,
+   "podcast": [],
+   "reddit": "Digestive enzymes are creating life-changing results for many users with chronic digestive issues, particularly IBS and SIBO, with users reporting ability to eat trigger foods and significant symptom relief. However, the market faces challenges with high costs for specialized products like FODZYME, confusion about which specific enzymes to try, and limited medical guidance, leading to extensive tr",
+   "products": [
+    {
+     "brand": "Physician's CHOICE",
+     "title": "Physician's CHOICE Digestive Enzymes for Bloating & Digestion - 16 Enzymes with Organic Prebiotics & Probiotics for Gut & Digestive Health - Meal Time Discomfort Relief - Dual Action Support - 60 CT",
+     "price": 19.97,
+     "rating": 4.4,
+     "reviews": 17177,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": 0.33,
+     "asin": "B0C21ZLQNC"
+    },
+    {
+     "brand": "Zenwise Health",
+     "title": "Zenwise Health Digestive Enzymes with Bromelain & Papaya - Multi Enzymes Digestion Supplement with Probiotics & Prebiotics for Gut Health, Gas & Bloating Relief - Men & Women - 180 Vegetarian Capsules",
+     "price": 48.96,
+     "rating": 4.4,
+     "reviews": 74245,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 180,
+     "pricePerServing": 0.27,
+     "asin": "B00RH5K26I"
+    },
+    {
+     "brand": "Pure Encapsulations",
+     "title": "Pure Encapsulations Digestive Enzymes Ultra - Vegetarian Digestive Enzyme Supplement to Support Protein, Carb, Fiber, and Dairy Digestion* - 90 Capsules",
+     "price": 36.2,
+     "rating": 4.6,
+     "reviews": 4994,
+     "monthlySold": 8000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 90,
+     "pricePerServing": 0.4,
+     "asin": "B0016XGOVO"
+    }
+   ]
+  },
+  {
+   "slug": "postbiotics",
+   "nameEn": "Postbiotics",
+   "nameKo": "포스트바이오틱스",
+   "aliasesKo": [
+    "포스트 바이오틱스"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 53
+   },
+   "monthlyRevenueUsd": 9785688.0,
+   "podcastMentions": 16,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Totaria",
+     "title": "14-in-1 Gut Health with Probiotics, Prebiotics, Postbiotics & Digestive Enzymes for Women & Men, 60 Billion CFU Probiotics for Digestion, Strong Immunity, Skin, Complete Gut Health (120 Capsules)",
+     "price": 19.99,
+     "rating": 4.4,
+     "reviews": 516,
+     "monthlySold": 1000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": 0.33,
+     "asin": "B0DZ1Q6MJN"
+    }
+   ]
+  },
+  {
+   "slug": "nad",
+   "nameEn": "NAD+",
+   "nameKo": "NAD⁺",
+   "aliasesKo": [
+    "니코틴아미드 아데닌 다이뉴클레오타이드"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 66
+   },
+   "monthlyRevenueUsd": 9751883.0,
+   "podcastMentions": 3,
+   "podcast": [
+    {
+     "speaker": "unknown",
+     "kind": "caveat",
+     "claim": "People with mitochondrial disease may have low blood NAD, while older people in the studied groups generally did not; NAD disturbances were observed in the liver of people with alcoholism and may occur in tissues affected by disease.",
+     "quote": "Generally we don't see people have low blood NAD. We don't see older people having low blood NAD, but when we've looked at alcoholics, we see disturbed NAD in their liver.",
+     "videoId": "ELcVYRJJdK4",
+     "t": 256,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "Coronavirus infection activated five members of the PARP superfamily, which the speakers discussed as potentially consuming NAD.",
+     "quote": "we found five different members of the PARP super family that were transcriptionally activated by uh corona virus infection. Wow. Yeah. So they're that were they consuming the NAD?",
+     "videoId": "ELcVYRJJdK4",
+     "t": 504,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "unknown",
+     "kind": "dose_timing",
+     "claim": "Taking 300 milligrams or more of NAD precursor vitamins can substantially change circulating NAD metabolites.",
+     "quote": "when people take substantive amounts of um NAD precursor vitamins into the 300 mgram plus you can see a substantive change in people's people's um circulating NAD metabolom",
+     "videoId": "ELcVYRJJdK4",
+     "t": 630,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "unknown",
+     "kind": "caveat",
+     "claim": "NAD levels can decline in tissues with age and in response to disease or conditions, though blood measurements do not directly show those tissue levels.",
+     "quote": "I think that there I think there are very substantive age related declines in NAD in tissues and disease and conditiondriven conditiondriven declines in NAD tissues",
+     "videoId": "ELcVYRJJdK4",
+     "t": 725,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "The speaker says nicotinamide riboside at roughly a gram per day was anti-inflammatory in randomized controlled trials in humans.",
+     "quote": "we've been able to show that in human beings and randomized control trials that nicotenomide ribos side at like a gram a day type type doses is anti-inflammatory.",
+     "videoId": "ELcVYRJJdK4",
+     "t": 1045,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "Nicotinamide riboside may help rebuild NAD supplies in stressed systems, supporting free-radical detoxification and anabolic and repair processes.",
+     "quote": "So what what I think it's doing is it's rebuilding NAD in a system in which the NAD systems come under attack, rebuilding those supplies so that uh free radical species can be detoxified detoxified and the anabolic processes and the repair processes can can work better.",
+     "videoId": "ELcVYRJJdK4",
+     "t": 1275,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    }
+   ],
+   "reddit": "Reddit users are cautiously optimistic about NAD+ supplements, with many reporting real energy and pain relief benefits, especially older adults. However, high costs, counterfeit concerns, and mixed research create hesitation, leading users to seek cheaper alternatives or consider injections for better bioavailability.",
+   "products": [
+    {
+     "brand": "Cata-Kor",
+     "title": "Cata-Kor Liposomal NAD Supplement with Resveratrol – NMN Supplement Alternative – Third-Party Tested – 30-Day Supply – Advanced NAD+ Resveratrol",
+     "price": 39.99,
+     "rating": 4.5,
+     "reviews": 4107,
+     "monthlySold": 30000,
+     "form": "liposomal",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0FBSC1CDZ"
+    },
+    {
+     "brand": "TRU NIAGEN",
+     "title": "TRU NIAGEN Patented NAD Supplement for Brain Function, Anti Aging & Cell Regeneration, 300mg Niagen, 30 Servings | Supports Cellular Energy, Muscle | Nicotinamide Riboside (NR) Take 1 Daily | 1 Bottle",
+     "price": 49.0,
+     "rating": 4.4,
+     "reviews": 14060,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 300,
+     "servings": 30,
+     "pricePerServing": null,
+     "asin": "B07TK5K5TQ"
+    },
+    {
+     "brand": "Life Extension",
+     "title": "Life Extension NAD+ Cell Regenerator™ and Resveratrol Elite™*, nicotinamide riboside, Trans-resveratrol, quercetin, Fisetin, Heart Health, Healthy Aging, Vegetarian, Non-GMO, Gluten Free, 30 Capsules",
+     "price": 44.0,
+     "rating": 4.6,
+     "reviews": 2974,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": null,
+     "asin": "B08PMJFLP8"
+    }
+   ]
+  },
+  {
+   "slug": "carnosine",
+   "nameEn": "Carnosine",
+   "nameKo": "카르노신",
+   "aliasesKo": [],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 45
+   },
+   "monthlyRevenueUsd": 9609272.0,
+   "podcastMentions": 12,
+   "podcast": [],
+   "reddit": "Zinc-L-Carnosine is viewed as a highly effective but underutilized supplement, particularly for gut health issues like gastritis and GERD. While users report significant benefits for stomach healing and some cognitive enhancement, concerns about side effects, proper dosing, and high costs limit broader adoption.",
+   "products": [
+    {
+     "brand": "Doctor's BEST",
+     "title": "Doctor's Best PepZin GI, Zinc-L-Carnosine Complex for Men & Women - Zinc Carnosine Supplement Caps for Gut Health, Digestive Support, & Stomach Comfort, Vegan, Gluten Free - 120 Veg Capsules",
+     "price": 22.99,
+     "rating": 4.5,
+     "reviews": 5273,
+     "monthlySold": 6000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 120,
+     "pricePerServing": 0.19,
+     "asin": "B0035BYOSA"
+    },
+    {
+     "brand": "Integrative Therapeutics",
+     "title": "Integrative Therapeutics Zinc-Carnosine - Digestive & Gut Health Support* - GI Tract Supplement - Vegan, Gluten-Free & Dairy-Free - 60 Capsules (60 Servings)",
+     "price": 37.75,
+     "rating": 4.6,
+     "reviews": 983,
+     "monthlySold": 2000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": 0.63,
+     "asin": "B00CFD0S3Y"
+    },
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Zinc Carnosine 86mg, 120 Capsules - Non-GMO, Gluten Free, Zinc L-Carnosine Supplement",
+     "price": 19.95,
+     "rating": 4.7,
+     "reviews": 541,
+     "monthlySold": 2000,
+     "form": "capsule",
+     "doseMg": 86,
+     "servings": 120,
+     "pricePerServing": 0.17,
+     "asin": "B0BRNX1LLH"
+    }
+   ]
+  },
+  {
+   "slug": "choline",
+   "nameEn": "Choline",
+   "nameKo": "콜린",
+   "aliasesKo": [],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 230
+   },
+   "monthlyRevenueUsd": 9598359.0,
+   "podcastMentions": 64,
+   "podcast": [
+    {
+     "speaker": "Jesse Inchospay",
+     "kind": "anecdote",
+     "claim": "The speaker says choline is important for forming a baby's brain in the womb and that she ate eggs as a way to get enough choline during pregnancy.",
+     "quote": "And choline is super important. It forms your baby's brain in the womb. So this is the amount of eggs that I ate per week during the 9 months of pregnancy because this is the simplest way to give enough choline to our baby.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 36,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    },
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "The guest says choline supports fetal neuron formation and the parts of the brain involved in memory, learning, and attention.",
+     "quote": "So choline is super important. It forms your baby's brain in the womb. So your baby your baby's brain has these cells that are forming called neurons which are the ones that process information and choline is important to creating those neurons and choline creates the parts of your baby's brain that have to do with memory, learning and attention.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 1262,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    },
+    {
+     "speaker": "unknown",
+     "kind": "recommendation",
+     "claim": "The guest recommends four eggs a day during pregnancy as a way to get enough choline, while noting that supplements are another option and advising pregnant people to check with a doctor about liver.",
+     "quote": "So four eggs a day gives you all the choline that you need. But choline is also present in organ meats like liver.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 1328,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    },
+    {
+     "speaker": "unknown",
+     "kind": "anecdote",
+     "claim": "Babies born to mothers in the high-choline group had 10% faster reaction times on a test than babies in the lower-choline group.",
+     "quote": "And they found that the babies who were born to the high choline moms had 10% faster reaction time to this test.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 1510,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    },
+    {
+     "speaker": "unknown",
+     "kind": "recommendation",
+     "claim": "When choosing formula, check the ingredients for choline because not all formulas contain it.",
+     "quote": "And if you're using formula, you actually have to check because today not all formulas have choline in them. So check in the ingredients for choline.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 1561,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    },
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "The speaker says that about 90% of people do not get enough choline, and that a pregnant person's diet helps shape the baby's development.",
+     "quote": "Even if like 90% of us you don't have enough choline.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 2902,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    }
+   ],
+   "reddit": "Reddit discussions reveal choline as a polarizing supplement - users either experience significant cognitive benefits or severe depression/anxiety. Those with genetic mutations often require higher doses and see dramatic improvements, while others struggle with mood side effects that can be mitigated with B5 supplementation. Many prefer food sources like eggs over supplements due to safety concern",
+   "products": [
+    {
+     "brand": "Integrative Therapeutics",
+     "title": "Integrative Therapeutics Active B-Complex - with Choline and Methyfolate - Cellular Energy, Immune Function & Heart Health Support with Vitamins B2, B6 & B12* - Gluten-Free - 60 Capsules (30 Servings)",
+     "price": 18.0,
+     "rating": 4.6,
+     "reviews": 7475,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B00CFD0TC4"
+    },
+    {
+     "brand": "THORNE",
+     "title": "THORNE - B-Complex #12 - Vitamin B Complex with Choline Supplement - Supports Cellular Energy Production & a Healthy Nervous System* - Third-Party Certified - Gluten, Dairy & Soy-Free - 60 Capsules",
+     "price": 26.0,
+     "rating": 4.7,
+     "reviews": 3953,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B0797JXKL9"
+    },
+    {
+     "brand": "Ritual",
+     "title": "Ritual Natal Choline Supplement, 550mg, Supports Baby’s Cognitive Function When Taken During Pregnancy and Choline Content in Breastmilk*, 30 Day Supply",
+     "price": 31.99,
+     "rating": 4.5,
+     "reviews": 886,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": 550,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0CNQ7TG4Y"
+    }
+   ]
+  },
+  {
+   "slug": "alpha-gpc",
+   "nameEn": "Alpha GPC",
+   "nameKo": "알파-GPC",
+   "aliasesKo": [
+    "L-알파 글리세릴포스포릴콜린",
+    "알파 지피씨"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 2
+   },
+   "monthlyRevenueUsd": 9448116.0,
+   "podcastMentions": 32,
+   "podcast": [],
+   "reddit": "Alpha GPC is viewed as a premium choline source with legitimate cognitive benefits, particularly for focus and acetylcholine support. However, it's recognized as having significant individual variation in response, with some users experiencing depression or no effects while others find it highly beneficial. The Huberman endorsement has driven significant interest, but users are becoming more aware",
+   "products": [
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Alpha GPC 600mg, 120 Vegetarian Capsules - Non-GMO and Gluten Free, 300mg Per Capsule",
+     "price": 24.95,
+     "rating": 4.5,
+     "reviews": 2711,
+     "monthlySold": 3000,
+     "form": "capsule",
+     "doseMg": 300,
+     "servings": 120,
+     "pricePerServing": 0.21,
+     "asin": "B076XNXLR2"
+    },
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Alpha GPC 600mg, 60 Vegetarian Capsules - Non-GMO and Gluten Free, 300mg Per Capsule",
+     "price": 14.95,
+     "rating": 4.5,
+     "reviews": 2710,
+     "monthlySold": 2000,
+     "form": "capsule",
+     "doseMg": 600,
+     "servings": 30,
+     "pricePerServing": 0.5,
+     "asin": "B076XDRNWH"
+    },
+    {
+     "brand": "Double Wood Supplements",
+     "title": "Alpha GPC Choline Brain Supplement for Acetylcholine (60 Count, 600mg Servings) Advanced Memory Formula, Focus and Brain Support, Focus Supplement (Manufactured in The USA) by Double Wood",
+     "price": 19.95,
+     "rating": 4.4,
+     "reviews": 5249,
+     "monthlySold": 2000,
+     "form": "capsule",
+     "doseMg": 600,
+     "servings": 30,
+     "pricePerServing": 0.66,
+     "asin": "B00XWQSD7G"
+    }
+   ]
+  },
+  {
+   "slug": "zinc",
+   "nameEn": "Zinc",
+   "nameKo": "아연",
+   "aliasesKo": [],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 1185
+   },
+   "monthlyRevenueUsd": 9222439.0,
+   "podcastMentions": 179,
+   "podcast": [],
+   "reddit": "Reddit users view zinc supplements as helpful for acne and immune support but struggle with quality vs. price tradeoffs. There's significant skepticism about budget brands like Nature's Bounty due to poor bioavailability, while premium brands like Pure Encapsulations face criticism for high prices and corporate ownership changes.",
+   "products": [
+    {
+     "brand": "Nature's Bounty",
+     "title": "Nature’s Bounty Zinc 50mg, Immune Support & Antioxidant Supplement, Promotes Skin Health, 1 Caplet Per Day, Gluten Free, 250 Vegetarian Caplets",
+     "price": 8.68,
+     "rating": 4.7,
+     "reviews": 213699,
+     "monthlySold": 40000,
+     "form": "capsule",
+     "doseMg": 50,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B08YLTCDTN"
+    },
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Zinc 30 mg, Zinc Supplements for Men & Women, Dietary Supplement for Immune Health and Antioxidant Support, 100 Tablets, 100 Day Supply",
+     "price": 4.99,
+     "rating": 4.7,
+     "reviews": 22548,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": 30,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0000DJAPU"
+    },
+    {
+     "brand": "Nature's Bounty",
+     "title": "Nature’s Bounty Zinc 50mg | Immune System, Skin, & Antioxidant Health Support | Contributes to DNA Formation | Vegetarian, Non-GMO, Gluten Free | 100 Caplets, 1 Serving Per Day for Daily Health",
+     "price": 3.47,
+     "rating": 4.7,
+     "reviews": 213699,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 50,
+     "servings": 1,
+     "pricePerServing": null,
+     "asin": "B000GCQ8X0"
+    }
+   ]
+  },
+  {
+   "slug": "nitrate",
+   "nameEn": "Nitrate",
+   "nameKo": "질산염",
+   "aliasesKo": [],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 256
+   },
+   "monthlyRevenueUsd": 9119143.0,
+   "podcastMentions": 14,
+   "podcast": [],
+   "reddit": "Nitrate supplements show promise for athletic performance and cardiovascular health, but users struggle with cost, taste, and GI issues. There's significant confusion about different nitrate types and safety, with many preferring whole food sources like beets and arugula over processed supplements.",
+   "products": [
+    {
+     "brand": "Force Factor",
+     "title": "Force Factor Total Beets Soft Chews with Beetroot, Nitrates, L-Citrulline, Grapeseed Extract, and Antioxidants, Healthy Energy Supplement with Elite Ingredients, Heart Health Superfood, 60 Chews",
+     "price": 14.98,
+     "rating": 4.5,
+     "reviews": 16135,
+     "monthlySold": 10000,
+     "form": "chews",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": 0.25,
+     "asin": "B095WNBLMN"
+    }
+   ]
+  },
+  {
+   "slug": "ashwagandha",
+   "nameEn": "Ashwagandha",
+   "nameKo": "아슈와간다",
+   "aliasesKo": [
+    "아슈와간다 추출물",
+    "위타니아"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 39
+   },
+   "monthlyRevenueUsd": 9082565.0,
+   "podcastMentions": 46,
+   "podcast": [
+    {
+     "speaker": "Andy Galpin",
+     "kind": "mechanism",
+     "claim": "Ashwagandha may blunt the HRV impact of stressors without improving resting HRV.",
+     "quote": "So, it's not that these things will take your resting HRV and make it get better, but what it will do is it helps you not be as responsive to a stressful stimuli.",
+     "videoId": "mfUO1CaEMBw",
+     "t": 7335,
+     "title": "Enhance Your Physical & Mental Resilience (HRV, Respiratory Rate, RHR)",
+     "channel": "Dr. Andy Galpin",
+     "duration": 7733
+    }
+   ],
+   "reddit": "Reddit discussions reveal Ashwagandha as a highly polarizing supplement with genuine benefits for anxiety and sleep, but significant safety concerns around liver toxicity and emotional blunting. Users emphasize the importance of quality brands, proper cycling, and low doses, with many ultimately preferring alternatives like magnesium glycinate and L-theanine for similar benefits without the risks.",
+   "products": [
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Ashwagandha Herbal Supplement 600mg, 120 Capsules - Vegetarian, Non-GMO, Gluten Free, Ashwagandha Root",
+     "price": 14.95,
+     "rating": 4.6,
+     "reviews": 6666,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": 600,
+     "servings": 120,
+     "pricePerServing": null,
+     "asin": "B073DN2YG9"
+    },
+    {
+     "brand": "NaturaLife Labs",
+     "title": "NaturaLife Labs Organic Ashwagandha 2100 mg per Serving – Herbal Supplement Root Powder & Extract – 100 Capsules – Vegan, Non-GMO, Gluten-Free",
+     "price": 13.99,
+     "rating": 4.5,
+     "reviews": 52022,
+     "monthlySold": 30000,
+     "form": "powder",
+     "doseMg": 2100,
+     "servings": 100,
+     "pricePerServing": null,
+     "asin": "B06ZYHJYD5"
+    },
+    {
+     "brand": "Goli",
+     "title": "Goli Ashwagandha & Vitamin D Gummy - 60 Count - Mixed Berry, KSM-66, Vegan, Plant Based, Non-GMO, Gluten-Free & Gelatin Free Relax. Restore. Unwind, Pack of 1",
+     "price": 14.96,
+     "rating": 4.5,
+     "reviews": 62189,
+     "monthlySold": 20000,
+     "form": "gummy",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B094T2BZCK"
+    }
+   ]
+  },
+  {
+   "slug": "dandelion",
+   "nameEn": "Dandelion",
+   "nameKo": "민들레",
+   "aliasesKo": [
+    "포공영"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 3
+   },
+   "monthlyRevenueUsd": 8990121.0,
+   "podcastMentions": 6,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Bronson",
+     "title": "Bronson Milk Thistle Silymarin Marianum & Dandelion Extract Liver Health Support, Antioxidant Support, Detox, 120 Capsules",
+     "price": 18.58,
+     "rating": 4.7,
+     "reviews": 38821,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 120,
+     "pricePerServing": null,
+     "asin": "B079JX3FMC"
+    },
+    {
+     "brand": "Nature's Way",
+     "title": "Nature’s Way Dandelion Root Capsules, Traditional Diuretic Herb, 1,575 mg Dandelion Root per 3-Capsule Serving, Vegan Dandelion Root Supplement, Non-GMO Project Verified, 100 Capsules",
+     "price": 8.12,
+     "rating": 4.5,
+     "reviews": 18317,
+     "monthlySold": 8000,
+     "form": "capsule",
+     "doseMg": 1575,
+     "servings": 100,
+     "pricePerServing": null,
+     "asin": "B000I4C20E"
+    },
+    {
+     "brand": "Zazzee",
+     "title": "Zazzee USDA Organic Dandelion Root 10:1 Extract, 120 Capsules, 4 Month Supply, Liver & Detox Support, Taraxacum Officinale, Organic Herbal Supplement, All-Natural, Non-GMO, Made in the USA",
+     "price": 27.97,
+     "rating": 4.6,
+     "reviews": 1852,
+     "monthlySold": 5000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 120,
+     "pricePerServing": 0.23,
+     "asin": "B0CDV1JXRY"
+    }
+   ]
+  },
+  {
+   "slug": "bcaa-branched-chain-amino-acids",
+   "nameEn": "BCAA (Branched-Chain Amino Acids)",
+   "nameKo": "분지사슬 아미노산",
+   "aliasesKo": [
+    "BCAA",
+    "분지쇄 아미노산"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 58
+   },
+   "monthlyRevenueUsd": 8891849.0,
+   "podcastMentions": 13,
+   "podcast": [],
+   "reddit": "Reddit consensus is largely skeptical of BCAA supplements, viewing them as overpriced and unnecessary for most people who consume adequate protein. While some acknowledge niche benefits for fasted training or specific dietary situations, the dominant view is that whey protein or whole food sources provide superior value and effectiveness.",
+   "products": [
+    {
+     "brand": "Clean Nutraceuticals",
+     "title": "Creatine for Women | Creatine Monohydrate + BCAA Powder Myo-Inositol Collagen Biotin Hyaluronic Acid Folate L Glutamine Vitamin D3 Iron Zinc D-Chiro-Maca Digestion Shelf Builder By Clean Nutra",
+     "price": 32.95,
+     "rating": 4.4,
+     "reviews": 2824,
+     "monthlySold": 20000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0DJDQCJX2"
+    },
+    {
+     "brand": "Scivation",
+     "title": "XTEND Sport BCAA Powder Blue Raspberry Ice - Electrolyte Powder for Recovery & Hydration with Amino Acids - 30 Servings",
+     "price": 21.99,
+     "rating": 4.6,
+     "reviews": 14639,
+     "monthlySold": 9000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 0.57,
+     "asin": "B07BV6Y72J"
+    },
+    {
+     "brand": "Optimum Nutrition",
+     "title": "Optimum Nutrition Amino Energy Powder Plus Focus, with BCAA, Electrolytes, and Caffeine, Watermelon, 30 Servings (Packaging May Vary)",
+     "price": 21.59,
+     "rating": 4.6,
+     "reviews": 9339,
+     "monthlySold": 6000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 0.7,
+     "asin": "B07DS5QKD3"
+    }
+   ]
+  },
+  {
+   "slug": "l-threonate",
+   "nameEn": "L-Threonate",
+   "nameKo": "L-트레오네이트",
+   "aliasesKo": [
+    "트레오네이트"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 1
+   },
+   "monthlyRevenueUsd": 8613720.0,
+   "podcastMentions": 0,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Life Extension",
+     "title": "Life Extension Neuro-Mag Magnesium L-Threonate, Memory Health, Quick Thinking, Cognitive Health Support, Vegetarian, Non-GMO, 90 Vegetarian Capsules (144 mg from 2000 mg Magtein magnesium L-threonate",
+     "price": 30.79,
+     "rating": 4.6,
+     "reviews": 23798,
+     "monthlySold": 60000,
+     "form": "capsule",
+     "doseMg": 144,
+     "servings": 45,
+     "pricePerServing": 0.68,
+     "asin": "B006P536E6"
+    },
+    {
+     "brand": "Sports Research",
+     "title": "Sports Research® Magnesium L-Threonate Capsules 2000mg - High-Absorption Magtein® for Enhanced Brain Health, Memory, Focus & Restful Sleep Support - Vegan · Non-GMO · Gluten Free - 90 Count",
+     "price": 29.95,
+     "rating": 4.7,
+     "reviews": 2154,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": 2000,
+     "servings": 45,
+     "pricePerServing": 0.67,
+     "asin": "B0B336FCWC"
+    },
+    {
+     "brand": "KAPPA NUTRITION",
+     "title": "Kappa Nutrition Powered by Magbrain™ Magnesium L-Threonate Plant-Based, 60 Vegan Capsules, 420mg Elemental Magnesium (3 Capsules) from 2,253mg, Brain, Sleep & Muscle Support.",
+     "price": 12.99,
+     "rating": 4.6,
+     "reviews": 6103,
+     "monthlySold": 8000,
+     "form": "capsule",
+     "doseMg": 420,
+     "servings": 20,
+     "pricePerServing": 0.65,
+     "asin": "B0DQVP7MQG"
+    }
+   ]
+  },
+  {
+   "slug": "cod-liver-oil",
+   "nameEn": "Cod Liver Oil",
+   "nameKo": "간유",
+   "aliasesKo": [
+    "대구 간유",
+    "대구간유"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 3
+   },
+   "monthlyRevenueUsd": 8527052.0,
+   "podcastMentions": 15,
+   "podcast": [],
+   "reddit": "Cod liver oil is viewed as a historically important supplement that provided essential vitamins when alternatives weren't available, but has largely been superseded by better-tasting and safer alternatives. While it offers legitimate nutritional benefits, the terrible taste and risk of vitamin A toxicity from regular use have driven most consumers to fish oil capsules or separate vitamin supplemen",
+   "products": [
+    {
+     "brand": "Natures Craft",
+     "title": "Icelandic Wild Caught Cod Liver Oil Softgels - Fish Omega 3, EPA, DHA, Vitamin D & A, 1000mg Per Serving - Burpless Capsules for Heart, Joint, Brain & Immune Support - 100 Count",
+     "price": 17.75,
+     "rating": 4.7,
+     "reviews": 3861,
+     "monthlySold": 4000,
+     "form": "softgel",
+     "doseMg": 1000,
+     "servings": 100,
+     "pricePerServing": 0.18,
+     "asin": "B09GYWZ2LP"
+    },
+    {
+     "brand": "NOW Foods",
+     "title": "NOW Foods Supplements, Cod Liver Oil, Extra Strength 1,000 mg with Vitamins A & D-3, EPA, DHA, 90 Softgels",
+     "price": 9.9,
+     "rating": 4.7,
+     "reviews": 6044,
+     "monthlySold": 3000,
+     "form": "softgel",
+     "doseMg": 1000,
+     "servings": 90,
+     "pricePerServing": 0.11,
+     "asin": "B00GIZVFQY"
+    },
+    {
+     "brand": "Carlson",
+     "title": "Carlson - Cod Liver Oil Gems, Super 1000 mg, 250 mg Omega-3s, 400 IU (10 mcg) Vitamin D3, Wild Caught Norwegian Arctic Cod Liver Oil, Capsules, 250 Softgels",
+     "price": 22.01,
+     "rating": 4.7,
+     "reviews": 7837,
+     "monthlySold": 2000,
+     "form": "softgel",
+     "doseMg": 1000,
+     "servings": 250,
+     "pricePerServing": 0.09,
+     "asin": "B001LF39PG"
+    }
+   ]
+  },
+  {
+   "slug": "folate",
+   "nameEn": "Folate",
+   "nameKo": "엽산",
+   "aliasesKo": [
+    "폴레이트"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 554
+   },
+   "monthlyRevenueUsd": 8408058.0,
+   "podcastMentions": 124,
+   "podcast": [
+    {
+     "speaker": "host",
+     "kind": "caveat",
+     "claim": "The speaker says that people who already have cancer may not want to take many supplements, including folate, because supplements could potentially accelerate tumor growth.",
+     "quote": "if you already have a bunch of tumors and then you're giving you know a bunch of whether it's folate or NAD or something you might expect um rapid cancer growth",
+     "videoId": "ELcVYRJJdK4",
+     "t": 5373,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "Mark Hyman",
+     "kind": "recommendation",
+     "claim": "A good-quality multivitamin mineral can help cover nutritional gaps, including folate.",
+     "quote": "Next, want a good quality multivitamin mineral. Cover all the gaps, folate, zinc, magnesium.",
+     "videoId": "F7n4duUjplQ",
+     "t": 1367,
+     "title": "Normal Cholesterol But Still Getting Heart Disease? Here's Why | Dr. Mark Hyman",
+     "channel": "Dr. Mark Hyman",
+     "duration": 1458
+    },
+    {
+     "speaker": "unknown",
+     "kind": "recommendation",
+     "claim": "She says her prenatal supplement contained methylated folate, which she considers better absorbed, and that folate is important for preventing miscarriage.",
+     "quote": "And I made sure it had a type of folic acid called metilated folate, which is better absorbed. And folate is very important to prevent miscarriage.",
+     "videoId": "Xm_PHZXGe-w",
+     "t": 3642,
+     "title": "They're Lying About 'Healthy' Foods & Sugar! Shocking New Research That's Harming You",
+     "channel": "DOAC",
+     "duration": 5735
+    },
+    {
+     "speaker": "Tim Spector",
+     "kind": "anecdote",
+     "claim": "Tim Spector began taking folic acid supplements after persistently low folate levels and evidence suggesting benefits for cognition in older adults.",
+     "quote": "I now um take this really seriously and as well as B12 supplements, I uh also take folic acid supplements for the first time. time. And there were some studies that have come out when I was researching my new book that show folic acid is really good for your brain.",
+     "videoId": "bByTKLZcI20",
+     "t": 1872,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    },
+    {
+     "speaker": "Tim Spector",
+     "kind": "recommendation",
+     "claim": "Spector does not recommend folate supplementation for everyone, advising people to get a blood test and supplement only if needed because excess folate may have risks.",
+     "quote": "So, I definitely don't think everybody should be doing this, but get a blood test, get checked out, and see if you really need this stuff.",
+     "videoId": "bByTKLZcI20",
+     "t": 1983,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    },
+    {
+     "speaker": "unknown",
+     "kind": "recommendation",
+     "claim": "The speaker recommends folic acid supplementation when folic acid levels are low, in addition to eating plants, and also mentions it for women who may become pregnant.",
+     "quote": "So basically, if your folic acid levels are low, you would suggest making sure you're sure you take a supplement in addition obviously to women who are thinking that they might get pregnant. Yeah. And as long as you're already taking lots of plants.",
+     "videoId": "bByTKLZcI20",
+     "t": 2994,
+     "title": "Tim Spector: Why I changed my mind about Vitamin D & sunlight",
+     "channel": "Dr. Tim Spector",
+     "duration": 3180
+    }
+   ],
+   "reddit": "The folate supplement market is dominated by a medical debate between folic acid (proven effective) versus methylfolate (marketed as superior), with pregnant women as the primary audience seeking neural tube defect prevention. Users frequently criticize premium brands as overpriced marketing while praising affordable, effective options like Nature Made, though many struggle with supplement toleran",
+   "products": [
+    {
+     "brand": "Ritual",
+     "title": "Ritual Prenatal Vitamins for Women Folate & Choline for Neural Tube Support, Omega-3 DHA for Fetal Brain Development, Iron, Calcium-Helper D3 & K2, Non-GMO, Vegan, Citrus, 30 Days",
+     "price": 42.98,
+     "rating": 4.2,
+     "reviews": 5392,
+     "monthlySold": 40000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.43,
+     "asin": "B09W363MVD"
+    },
+    {
+     "brand": "Triquetra Health",
+     "title": "L Methyl Folate 15mg Plus Methyl B12 Cofactor – High Potency, Active 5-MTHF Form - Supports Mood, Methylation, Cognition – Bioactive Forms of Vitamin B9 & B12 (60 Capsules – 60 Servings)",
+     "price": 21.97,
+     "rating": 4.6,
+     "reviews": 8574,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": 15,
+     "servings": 60,
+     "pricePerServing": 0.37,
+     "asin": "B0938NKV1G"
+    },
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Folic Acid 400 mcg (665 mcg DFE) Dietary Supplement for Nervous System Function, Folic Acid Supplements for Women and Men, 250 Tablets, 250 Day Supply",
+     "price": 5.59,
+     "rating": 4.8,
+     "reviews": 29001,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0000DJAPS"
+    }
+   ]
+  },
+  {
+   "slug": "copper",
+   "nameEn": "Copper",
+   "nameKo": "구리",
+   "aliasesKo": [
+    "동"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 472
+   },
+   "monthlyRevenueUsd": 8296866.0,
+   "podcastMentions": 77,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Pure Encapsulations",
+     "title": "Pure Encapsulations Copper Glycinate 60's - 2 mg Copper Supplement, Supports Red Blood Cell Formation* - Aids Energy Metabolism - Non-GMO & Vegan - 60 Capsules",
+     "price": 12.5,
+     "rating": 4.6,
+     "reviews": 3492,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": 2,
+     "servings": 60,
+     "pricePerServing": 0.21,
+     "asin": "B000H7Y6J2"
+    },
+    {
+     "brand": "THORNE",
+     "title": "THORNE - Copper Bisglycinate - Optimally Absorbed, Mineral Chelate Copper Supplement - Supports Bone, Blood Vessel, Heart, Nerve & Skin Health* - Third-Party Certified - Gluten-Free - 60 Capsules",
+     "price": 19.0,
+     "rating": 4.7,
+     "reviews": 1364,
+     "monthlySold": 4000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": 0.32,
+     "asin": "B00HA044NM"
+    },
+    {
+     "brand": "Unknown",
+     "title": "Deal Supplement Zinc 50mg with Selenium + Copper, 240 Capsules, 8 Month Supply, 3 in 1 Mineral Formula, Zinc Picolinate Complex Supplement, Supports Healthy Immune System for Adults and Kids",
+     "price": 15.96,
+     "rating": 4.6,
+     "reviews": 1956,
+     "monthlySold": 3000,
+     "form": "capsule",
+     "doseMg": 50,
+     "servings": 240,
+     "pricePerServing": null,
+     "asin": "B08FXYT1RT"
+    }
+   ]
+  },
+  {
+   "slug": "greens-blend",
+   "nameEn": "Greens Blend",
+   "nameKo": "그린 블렌드",
+   "aliasesKo": [
+    "그린스 블렌드",
+    "녹색 채소 블렌드"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 13
+   },
+   "monthlyRevenueUsd": 8286055.0,
+   "podcastMentions": 339,
+   "podcast": [],
+   "reddit": "Greens powders are polarizing with users either loving the convenience and perceived benefits or dismissing them as overpriced marketing. The market shows strong demand for better taste, transparent labeling, and more affordable options while many consumers remain skeptical about value compared to whole foods.",
+   "products": [
+    {
+     "brand": "Orgain",
+     "title": "Orgain Organic Greens Powder + 50 Superfoods, Berry - 1 Billion Probiotics for Digestive Health, Antioxidants, Vegan, Plant-Based, Gluten-Free, Non-GMO, Green Juice & Smoothie Drink Mix - 0.62lb",
+     "price": 19.99,
+     "rating": 4.3,
+     "reviews": 18504,
+     "monthlySold": 7000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B019TUCOM8"
+    },
+    {
+     "brand": "Amazing Grass",
+     "title": "Amazing Grass Greens Blend Superfood: Greens Powder Mix for Energy, with Organic Spirulina, Chlorella, Beet Root Powder, Digestive Enzymes & Probiotics, Original, 30 Servings (Packaging May Vary)",
+     "price": 21.99,
+     "rating": 4.4,
+     "reviews": 44481,
+     "monthlySold": 7000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 0.73,
+     "asin": "B00112ILZM"
+    },
+    {
+     "brand": "NutraChamps",
+     "title": "NutraChamps Super Greens Powder Premium Superfood | 20+ Organic Green Veggie Whole Foods | Wheat Grass, Spirulina, Chlorella & More | Antioxidant, Digestive Enzyme & Probiotic Blends",
+     "price": 31.6,
+     "rating": 4.3,
+     "reviews": 14716,
+     "monthlySold": 6000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B07FLDK6ZY"
+    }
+   ]
+  },
+  {
+   "slug": "resistant-starch",
+   "nameEn": "Resistant Starch",
+   "nameKo": "저항성 전분",
+   "aliasesKo": [
+    "난소화성 전분"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 50
+   },
+   "monthlyRevenueUsd": 8232220.0,
+   "podcastMentions": 15,
+   "podcast": [],
+   "reddit": "Resistant starch is viewed as a promising gut health supplement with legitimate benefits for blood sugar control and microbiome support, but users struggle with sourcing therapeutic doses and managing initial digestive side effects. The market appears underserved for high-concentration, easily accessible resistant starch products that can deliver the 30g doses used in clinical research.",
+   "products": [
+    {
+     "brand": "Jonnys Good Nature",
+     "title": "Jonnys Good Nature Organic Ultra High Resistant Starch Premium Green Banana Flour | On Average [10x's] More Prebiotic Fiber Per Gram Than Other Green Banana Flours On The Market | 42 Servings",
+     "price": 24.95,
+     "rating": 4.6,
+     "reviews": 483,
+     "monthlySold": 1000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 42,
+     "pricePerServing": 0.59,
+     "asin": "B07MMKQHQG"
+    }
+   ]
+  },
+  {
+   "slug": "nicotinamide-riboside",
+   "nameEn": "Nicotinamide Riboside",
+   "nameKo": "니코틴아미드 리보사이드",
+   "aliasesKo": [
+    "NR",
+    "니코틴아마이드 리보사이드"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 7
+   },
+   "monthlyRevenueUsd": 8020630.0,
+   "podcastMentions": 8,
+   "podcast": [],
+   "reddit": "Reddit users view Nicotinamide Riboside as promising but expensive, with significant quality control issues across most brands except premium options like Tru Niagen. While many report positive effects on energy and recovery, recent cancer risk studies and widespread product adulteration have created uncertainty in the community.",
+   "products": [
+    {
+     "brand": "THORNE",
+     "title": "Thorne ResveraCel - Nicotinamide Riboside with Quercetin Phytosome and Resveratrol - Support Healthy Aging, Methylation, Cellular Energy Production and Metabolism - 60 Capsules - 30 Servings",
+     "price": 55.97,
+     "rating": 4.6,
+     "reviews": 1157,
+     "monthlySold": 5000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.87,
+     "asin": "B097Z5387H"
+    },
+    {
+     "brand": "O NATURE . ZIRAN",
+     "title": "NAD Supplement - NAD+ Nicotinamide Riboside 910 Mg Supplement for Women & Men, Liposomal Nicotinamide Riboside with Resveratrol, for Focus, Boost - 120 Capsules (120 Count (Pack of 1))",
+     "price": 21.24,
+     "rating": 4.6,
+     "reviews": 789,
+     "monthlySold": 2000,
+     "form": "capsule",
+     "doseMg": 910,
+     "servings": 120,
+     "pricePerServing": 0.18,
+     "asin": "B0DQGXL68G"
+    },
+    {
+     "brand": "zooone",
+     "title": "zooone- NAD+ Supplement 30pcs, Premium Nicotinamide Riboside & Resveratrol, DNA Repair & Healthy Aging， Advanced NAD Supplement for Men & Women, Boosts Cellular Energy.",
+     "price": 39.99,
+     "rating": 4.4,
+     "reviews": 1013,
+     "monthlySold": 2000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.33,
+     "asin": "B0F93XWY3S"
+    }
+   ]
+  },
+  {
+   "slug": "phosphatidylcholine",
+   "nameEn": "Phosphatidylcholine",
+   "nameKo": "포스파티딜콜린",
+   "aliasesKo": [
+    "인지질 콜린"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 36
+   },
+   "monthlyRevenueUsd": 7827520.0,
+   "podcastMentions": 8,
+   "podcast": [],
+   "reddit": "Reddit discussions show phosphatidylcholine supplements are valued for liver health, SIBO treatment, and methylation support, but users struggle with high costs and quality concerns. TRU NIAGEN dominates NAD+ discussions with mixed reviews on effectiveness versus price, while counterfeit products on Amazon create significant trust issues.",
+   "products": [
+    {
+     "brand": "THORNE",
+     "title": "THORNE - Phosphatidyl Choline - Phospholipid Complex for Liver Support, Cholesterol Metabolism & Healthy Bile* - Third-Party Certified - Gluten & Dairy-Free - 60 Softgels",
+     "price": 30.0,
+     "rating": 4.6,
+     "reviews": 861,
+     "monthlySold": 3000,
+     "form": "softgel",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B0797CGC5W"
+    },
+    {
+     "brand": "Double Wood Supplements",
+     "title": "Phosphatidylcholine 1,200mg – 210 Softgels – Enhanced Version of Sunflower and Soy Lecithin (Choline Supplements) - Non-GMO and Gluten Free to Support Brain Health by Double Wood",
+     "price": 19.95,
+     "rating": 4.6,
+     "reviews": 2515,
+     "monthlySold": 2000,
+     "form": "softgel",
+     "doseMg": 200,
+     "servings": 210,
+     "pricePerServing": null,
+     "asin": "B07PFYH2PQ"
+    }
+   ]
+  },
+  {
+   "slug": "chamomile",
+   "nameEn": "Chamomile",
+   "nameKo": "캐모마일",
+   "aliasesKo": [
+    "카모마일"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 69
+   },
+   "monthlyRevenueUsd": 7748809.0,
+   "podcastMentions": 34,
+   "podcast": [],
+   "reddit": "Chamomile is widely viewed as an effective, gentle natural remedy primarily for sleep and anxiety, with users appreciating both its therapeutic effects and ritual aspects. While most experiences are positive, users seek clearer guidance on dosing, safety interactions, and preventing tolerance, particularly when comparing tea versus supplement forms.",
+   "products": [
+    {
+     "brand": "OLLY",
+     "title": "OLLY Sleep Gummy, 3 mg Melatonin, L-Theanine, Chamomile, and Lemon Balm Extracts, Blackberry Flavor, 30 Day Supply - 60 Count",
+     "price": 14.99,
+     "rating": 4.5,
+     "reviews": 20526,
+     "monthlySold": 5000,
+     "form": "gummy",
+     "doseMg": 3,
+     "servings": 30,
+     "pricePerServing": 0.5,
+     "asin": "B07NZKSFKM"
+    },
+    {
+     "brand": "Dr. Talbot's",
+     "title": "Dr. Talbot's Chamomile Soothing Tablets, Quick Dissolve, 140 Count",
+     "price": 6.96,
+     "rating": 4.7,
+     "reviews": 11867,
+     "monthlySold": 5000,
+     "form": "tablet",
+     "doseMg": null,
+     "servings": 140,
+     "pricePerServing": 0.05,
+     "asin": "B077HWQQYF"
+    },
+    {
+     "brand": "Nature Restore",
+     "title": "Organic Chamomile Whole Flower, Loose Leaf, Tea Leaves, 4oz (Packaging may vary)",
+     "price": 11.95,
+     "rating": 4.7,
+     "reviews": 3829,
+     "monthlySold": 4000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B01E9GTTZW"
+    }
+   ]
+  },
+  {
+   "slug": "nmn-nicotinamide-mononucleotide",
+   "nameEn": "NMN (Nicotinamide Mononucleotide)",
+   "nameKo": "NMN",
+   "aliasesKo": [
+    "니코틴아마이드 모노뉴클레오타이드",
+    "니코틴아미드 모노뉴클레오타이드"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 13
+   },
+   "monthlyRevenueUsd": 7637653.0,
+   "podcastMentions": 7,
+   "podcast": [
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "The speaker says NMN does not enter cells directly and instead breaks down into NR or smaller compounds that can enter cells.",
+     "quote": "Neither can NMN get into cells. So these compounds break down into NR or something smaller, right?",
+     "videoId": "ELcVYRJJdK4",
+     "t": 3311,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "unknown",
+     "kind": "contradiction",
+     "claim": "The speaker says oral NR has more extensive clinical data than IV NR, while some mouse experiments suggest intravenous NR reaches more tissues than oral NR.",
+     "quote": "Again the clinical data behind oral niogen is much more extensive than IV. That said, that said, there are some, you know, mouse experiments where intravenous NR goes further into different tissues than oral NR.",
+     "videoId": "ELcVYRJJdK4",
+     "t": 3347,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "The speaker says a human study found that the gut microbiome plays a role in converting NR and NMN into NAD in tissues, though the mechanism is not fully established.",
+     "quote": "brand new paper out of um Nestle in Switzerland says that um the gut microbiome plays a role in human conversion of NR and NMN into NAD in our tissues. I think that they got part of the story right. I don't think that they got all of it right",
+     "videoId": "ELcVYRJJdK4",
+     "t": 3760,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "unknown",
+     "kind": "mechanism",
+     "claim": "The speaker says NMN’s phosphate group prevents it from entering cells, so orally taken NMN is converted back to NR before entering cells.",
+     "quote": "NMN has a phosphate group that precludes its transport into the cell.",
+     "videoId": "ELcVYRJJdK4",
+     "t": 3571,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "unknown",
+     "kind": "caveat",
+     "claim": "The speaker cautions that many products labeled as NMN may not contain NMN or meet their label claims.",
+     "quote": "There are some reports that 17 out of 20 products labeled as NMN don't have NMN in it or don't meet meet the label claims.",
+     "videoId": "ELcVYRJJdK4",
+     "t": 3527,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    },
+    {
+     "speaker": "unknown",
+     "kind": "recommendation",
+     "claim": "The speaker recommends choosing third-party-tested NMN supplements because products sold under the same chemical name may not match the material used in clinical studies and may contain too little active ingredient or harmful contaminants.",
+     "quote": "if it's you read some study about NMN being done in a hospital in Boston or Tokyo or something like that and then you go on Amazon and you buy NN, you're probably not using the same material that was tested in that hospital, right? And there's really no telling what's in it.",
+     "videoId": "ELcVYRJJdK4",
+     "t": 5018,
+     "title": "How To Boost NAD Levels To Fight Inflammation, Improve Recovery, and Slow Aging",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 6858
+    }
+   ],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Cata-Kor",
+     "title": "Cata-Kor Liposomal NAD Supplement with Resveratrol – NMN Supplement Alternative – Third-Party Tested – 30-Day Supply – Advanced NAD+ Resveratrol",
+     "price": 39.99,
+     "rating": 4.5,
+     "reviews": 4112,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.2,
+     "asin": "B0FBSC1CDZ"
+    },
+    {
+     "brand": "Cata-Kor",
+     "title": "Cata-Kor NMN Supplement – 4-in-1 NAD Supplement with Quercetin | TMG | Resveratrol – NMNH Alternative – Supports Cellular Energy & NAD+ Level – 60 Capsules – Third-Party Tested (1 Pack)",
+     "price": 39.99,
+     "rating": 4.4,
+     "reviews": 503,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.33,
+     "asin": "B0FWGXBT3C"
+    },
+    {
+     "brand": "Micro Ingredients",
+     "title": "Micro Ingredients NMN Complex 1000mg Per Serving, 120 Veggie Capsules | 10-in-1 with Nicotinamide Mononucleotide, Resveratrol, CoQ10, Quercetin & Glutathione | NAD+ Supplement Precursor | Filler Free",
+     "price": 34.95,
+     "rating": 4.3,
+     "reviews": 298,
+     "monthlySold": 9000,
+     "form": "capsule",
+     "doseMg": 1000,
+     "servings": 60,
+     "pricePerServing": 0.47,
+     "asin": "B0FXJ8YYX4"
+    }
+   ]
+  },
+  {
+   "slug": "black-pepper",
+   "nameEn": "Black Pepper",
+   "nameKo": "후추",
+   "aliasesKo": [
+    "블랙페퍼",
+    "흑후추"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 8
+   },
+   "monthlyRevenueUsd": 7614781.0,
+   "podcastMentions": 22,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Qunol",
+     "title": "Qunol Turmeric Curcumin with Black Pepper & Ginger, 2400mg Turmeric Extract with 95% Curcuminoids, Extra Strength Supplement, Enhanced Absorption, Joint Support Supplement, 105 Count",
+     "price": 28.99,
+     "rating": 4.5,
+     "reviews": 15903,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": 2400,
+     "servings": 105,
+     "pricePerServing": null,
+     "asin": "B09YGG58LZ"
+    },
+    {
+     "brand": "BioSchwartz",
+     "title": "Turmeric Curcumin with Black Pepper Extract 1500mg - High Absorption Ultra Potent Turmeric Supplement with 95% Curcuminoids and BioPerine - Non GMO Tumeric Capsules for Joint Support - 90 Capsules",
+     "price": 18.79,
+     "rating": 4.5,
+     "reviews": 103451,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 1500,
+     "servings": 45,
+     "pricePerServing": 0.42,
+     "asin": "B01DBTFO98"
+    },
+    {
+     "brand": "Amazon Grocery",
+     "title": "Amazon Grocery, Ground Black Pepper, 3 Oz",
+     "price": 2.49,
+     "rating": 4.7,
+     "reviews": 18443,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B07W1WVXWG"
+    }
+   ]
+  },
+  {
+   "slug": "zeaxanthin",
+   "nameEn": "Zeaxanthin",
+   "nameKo": "제아잔틴",
+   "aliasesKo": [
+    "지아잔틴"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 48
+   },
+   "monthlyRevenueUsd": 7610973.0,
+   "podcastMentions": 5,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Clean Nutraceuticals",
+     "title": "Clean Nutra Eye Vitamins with Bilberry Lutein and Zeaxanthin Supplements Lycopene 40mg Resveratrol Grape Seed Astaxanthin for Eyes - Eye Care Health Support Eye Vitamin and Mineral Supplement",
+     "price": 29.95,
+     "rating": 4.5,
+     "reviews": 2471,
+     "monthlySold": 5000,
+     "form": "capsule",
+     "doseMg": 40,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0C4J8G4SB"
+    },
+    {
+     "brand": "NOW Foods",
+     "title": "NOW Foods Supplements, Lutein & Zeaxanthin with 25 mg Lutein and 5 mg Zeaxanthin, 60 Softgels",
+     "price": 16.8,
+     "rating": 4.6,
+     "reviews": 2536,
+     "monthlySold": 4000,
+     "form": "softgel",
+     "doseMg": 25,
+     "servings": 60,
+     "pricePerServing": 0.28,
+     "asin": "B01LQEL9F8"
+    },
+    {
+     "brand": "VivoNu",
+     "title": "14-in-1 Astaxanthin 12mg & Lutein 40mg with Zeaxanthin Supplements, 6 Month Supply, Fresh Microalgae Source, Supports Eye, Skin, Antioxidant, Joint, Circulatory Health Non-GMO Gluten Free 180 Softgels",
+     "price": 29.99,
+     "rating": 4.5,
+     "reviews": 228,
+     "monthlySold": 4000,
+     "form": "softgel",
+     "doseMg": 12,
+     "servings": 180,
+     "pricePerServing": 0.17,
+     "asin": "B0G641K9KM"
+    }
+   ]
+  },
+  {
+   "slug": "nicotinamide",
+   "nameEn": "Nicotinamide",
+   "nameKo": "니코틴아미드",
+   "aliasesKo": [
+    "나이아신아마이드",
+    "니아신아미드"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 90
+   },
+   "monthlyRevenueUsd": 7522523.0,
+   "podcastMentions": 23,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Niacinamide (Vitamin B3) 500mg, 240 Capsules - Non-GMO, Gluten Free, Flush Free Vitamin B3",
+     "price": 14.95,
+     "rating": 4.6,
+     "reviews": 19568,
+     "monthlySold": 10000,
+     "form": "capsule",
+     "doseMg": 500,
+     "servings": 240,
+     "pricePerServing": 0.06,
+     "asin": "B01M9GIV8S"
+    },
+    {
+     "brand": "UNcena",
+     "title": "UNcena NAD Supplement 1500mg - Liposomal NAD+ Nicotinamide Riboside with Resveratrol, NAD Plus Boosting - Support Cellular Health, Stamina & Healthy Aging for Women & Men- 120 Capsules",
+     "price": 24.99,
+     "rating": 4.6,
+     "reviews": 485,
+     "monthlySold": 5000,
+     "form": "capsule",
+     "doseMg": 1500,
+     "servings": 60,
+     "pricePerServing": 0.42,
+     "asin": "B0FDGQ49CT"
+    },
+    {
+     "brand": "THORNE",
+     "title": "Thorne ResveraCel - Nicotinamide Riboside with Quercetin Phytosome and Resveratrol - Support Healthy Aging, Methylation, Cellular Energy Production and Metabolism - 60 Capsules - 30 Servings",
+     "price": 55.97,
+     "rating": 4.6,
+     "reviews": 1162,
+     "monthlySold": 5000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 30,
+     "pricePerServing": 1.87,
+     "asin": "B097Z5387H"
+    }
+   ]
+  },
+  {
+   "slug": "alanine",
+   "nameEn": "Alanine",
+   "nameKo": "알라닌",
+   "aliasesKo": [],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 1035
+   },
+   "monthlyRevenueUsd": 7060344.0,
+   "podcastMentions": 37,
+   "podcast": [],
+   "reddit": "The provided Reddit discussions do not contain meaningful conversation about alanine supplements specifically. While beta-alanine is mentioned in fitness contexts, there is insufficient data to analyze market sentiment, usage patterns, or consumer perceptions regarding alanine supplementation.",
+   "products": [
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Beta Alanine Powder 500 Grams (1.1lbs) - Pure Beta Alanine, Gluten Free & Non-GMO",
+     "price": 19.95,
+     "rating": 4.7,
+     "reviews": 8435,
+     "monthlySold": 4000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B07BTGCJTW"
+    },
+    {
+     "brand": "BulkSupplements",
+     "title": "BulkSupplements.com Beta Alanine Powder - Beta-Alanine Supplement, Pre-Workout Supplement - Unflavored & Gluten Free, 3g per Serving, 500g (1.1 lbs) (Pack of 1)",
+     "price": 16.96,
+     "rating": 4.6,
+     "reviews": 11429,
+     "monthlySold": 2000,
+     "form": "powder",
+     "doseMg": 3000,
+     "servings": 166,
+     "pricePerServing": 0.1,
+     "asin": "B00EIO4I7A"
+    },
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Beta Alanine Powder 300 Grams (10.7oz) - 3 Grams Per Serving",
+     "price": 14.95,
+     "rating": 4.7,
+     "reviews": 8435,
+     "monthlySold": 2000,
+     "form": "powder",
+     "doseMg": 3000,
+     "servings": 100,
+     "pricePerServing": 0.15,
+     "asin": "B00MWE8WAM"
+    }
+   ]
+  },
+  {
+   "slug": "milk-thistle",
+   "nameEn": "Milk Thistle",
+   "nameKo": "밀크씨슬",
+   "aliasesKo": [
+    "밀크시슬",
+    "서양엉겅퀴"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 23
+   },
+   "monthlyRevenueUsd": 6948463.0,
+   "podcastMentions": 3,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Bronson",
+     "title": "Bronson Milk Thistle Silymarin Marianum & Dandelion Extract Liver Health Support, Antioxidant Support, Detox, 120 Capsules",
+     "price": 18.37,
+     "rating": 4.7,
+     "reviews": 38636,
+     "monthlySold": 30000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 120,
+     "pricePerServing": null,
+     "asin": "B079JX3FMC"
+    },
+    {
+     "brand": "Natures Craft",
+     "title": "Liver Cleanse Detox & Repair - Milk Thistle Supplement for Digestion & Immune Health - Ginger Root, Choline & Dandelion Root - Herbal Liver Support with Silymarin, Beetroot & Artichoke - 70 Count",
+     "price": 20.39,
+     "rating": 4.5,
+     "reviews": 44441,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 70,
+     "pricePerServing": 0.29,
+     "asin": "B01NCUJPBF"
+    },
+    {
+     "brand": "Nature's Bounty",
+     "title": "Nature's Bounty Milk Thistle 1000mg, Herbal Health Supplement, Daily Supplement, Gluten Free, Rapid Release Softgels, 50 Ct",
+     "price": 8.92,
+     "rating": 4.7,
+     "reviews": 9812,
+     "monthlySold": 9000,
+     "form": "softgel",
+     "doseMg": 1000,
+     "servings": 50,
+     "pricePerServing": 0.18,
+     "asin": "B002QMB63A"
+    }
+   ]
+  },
+  {
+   "slug": "acai",
+   "nameEn": "Acai",
+   "nameKo": "아사이",
+   "aliasesKo": [
+    "아사이베리"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 9
+   },
+   "monthlyRevenueUsd": 6922763.0,
+   "podcastMentions": 2,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Liquid I.V.",
+     "title": "Liquid I.V.® Hydration Multiplier - Acai Berry | Electrolyte Powder Drink Mix | 1 Pack (16 Servings)",
+     "price": 24.99,
+     "rating": 4.7,
+     "reviews": 31067,
+     "monthlySold": 4000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 16,
+     "pricePerServing": 1.56,
+     "asin": "B078XMP8KJ"
+    },
+    {
+     "brand": "Sambazon",
+     "title": "Sambazon Organic Original Açaí Berry Sorbet, 16 Oz",
+     "price": 6.99,
+     "rating": 4.6,
+     "reviews": 1631,
+     "monthlySold": 2000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B01MQUH7U5"
+    },
+    {
+     "brand": "Trace Minerals",
+     "title": "Trace Minerals Research Electrolyte Power Pak Acai Berry, 32 Count, 0.31 Ounce",
+     "price": 19.99,
+     "rating": 4.5,
+     "reviews": 1588,
+     "monthlySold": 1000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 32,
+     "pricePerServing": 0.62,
+     "asin": "B009IDBCQ6"
+    }
+   ]
+  },
+  {
+   "slug": "type-ii-collagen",
+   "nameEn": "Type-II Collagen",
+   "nameKo": "제2형 콜라겐",
+   "aliasesKo": [
+    "2형 콜라겐",
+    "II형 콜라겐"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 21
+   },
+   "monthlyRevenueUsd": 6880297.0,
+   "podcastMentions": 2,
+   "podcast": [],
+   "reddit": "Type-II Collagen supplements show a clear divide between enthusiastic users who experience significant joint pain relief and skeptics who see little benefit. The menopausal women demographic appears most engaged and reports the strongest positive effects, while cost remains a consistent concern across all user groups.",
+   "products": [
+    {
+     "brand": "NOW Foods",
+     "title": "NOW Foods Supplements, UC-II Type II Collagen with Undenatured Type II Collagen, 120 Veg Capsules",
+     "price": 34.03,
+     "rating": 4.6,
+     "reviews": 3983,
+     "monthlySold": 3000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B014MHI0P8"
+    },
+    {
+     "brand": "Jarrow Formulas",
+     "title": "Jarrow Formulas® Type II Collagen Complex 1000 mg Supplements, Supports Skin and Joint Health, 60 Capsules, 30 Day Supply",
+     "price": 19.94,
+     "rating": 4.5,
+     "reviews": 1454,
+     "monthlySold": 1000,
+     "form": "capsule",
+     "doseMg": 1000,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B0025UUU9E"
+    },
+    {
+     "brand": "Vital Proteins",
+     "title": "Vital Proteins Cartilage Collagen Pills, Type II Collagen & Chondroitin Sulfate Supplement for Recovery & Healthy Hair, Skin, Nails and Joints - 750 mg Serving with 120 Capsules",
+     "price": 41.0,
+     "rating": 4.5,
+     "reviews": 966,
+     "monthlySold": 1000,
+     "form": "capsule",
+     "doseMg": 750,
+     "servings": 120,
+     "pricePerServing": null,
+     "asin": "B07TC4D55L"
+    }
+   ]
+  },
+  {
+   "slug": "vitamin-b12",
+   "nameEn": "Vitamin B12",
+   "nameKo": "비타민 B12",
+   "aliasesKo": [
+    "시아노코발라민",
+    "코발라민"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 364
+   },
+   "monthlyRevenueUsd": 6861746.0,
+   "podcastMentions": 52,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Vitamin B12 1000 mcg, Dietary Supplement for Energy Metabolism Support, B12 Vitamins 1000 mcg, 150 Softgels, 150 Day Supply",
+     "price": 17.48,
+     "rating": 4.7,
+     "reviews": 43751,
+     "monthlySold": 30000,
+     "form": "softgel",
+     "doseMg": 1000,
+     "servings": 150,
+     "pricePerServing": 0.12,
+     "asin": "B00DS5BGDY"
+    },
+    {
+     "brand": "THORNE",
+     "title": "THORNE - Vitamin B12 - as Methylcobalamin - Supports Heart & Nerve Health, Blood Cell Function, Restful Sleep & Methylation* - Third-Party Certified - Gluten, Dairy & Soy-Free - 60 Capsules",
+     "price": 24.0,
+     "rating": 4.8,
+     "reviews": 3381,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": 0.4,
+     "asin": "B002BKW1YA"
+    },
+    {
+     "brand": "Nature Made",
+     "title": "Nature Made Maximum Strength Vitamin B12 5000 mcg, Dietary Supplement for Energy Metabolism Support, 60 Softgels, 60 Day Supply",
+     "price": 11.29,
+     "rating": 4.7,
+     "reviews": 13979,
+     "monthlySold": 20000,
+     "form": "softgel",
+     "doseMg": 5000,
+     "servings": 60,
+     "pricePerServing": 0.19,
+     "asin": "B00CBXSO4I"
+    }
+   ]
+  },
+  {
+   "slug": "krill-oil",
+   "nameEn": "Krill Oil",
+   "nameKo": "크릴오일",
+   "aliasesKo": [
+    "크릴 오일"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 9
+   },
+   "monthlyRevenueUsd": 6822983.0,
+   "podcastMentions": 18,
+   "podcast": [],
+   "reddit": "Reddit users are increasingly skeptical of krill oil due to low EPA/DHA content relative to price and growing environmental concerns about krill harvesting. While some appreciate the phospholipid form and astaxanthin content for better absorption, many are switching to high-quality fish oil or algae oil alternatives that provide more omega-3s per dollar and less ecological impact.",
+   "products": [
+    {
+     "brand": "MegaRed",
+     "title": "MegaRed Antarctic Krill Oil 500mg Omega 3 Fatty Acid Supplement, Extra Strength EPA & DHA Krill Oil Softgels (90cnt Box), Astaxanthin, Heart Health Supplement with No Fish Oil Aftertaste",
+     "price": 20.24,
+     "rating": 4.7,
+     "reviews": 7702,
+     "monthlySold": 8000,
+     "form": "softgel",
+     "doseMg": 500,
+     "servings": 90,
+     "pricePerServing": 0.22,
+     "asin": "B0184SMS9A"
+    },
+    {
+     "brand": "MegaRed",
+     "title": "MegaRed - Omega-3 Krill Oil 350mg Softgels (130 Count in A Bottle), EPA & DHA Omega-3 Fatty Acids with No Fishy Aftertaste Unlike Fish Oil, Contains Antioxidant Astaxanthin",
+     "price": 17.49,
+     "rating": 4.7,
+     "reviews": 16594,
+     "monthlySold": 8000,
+     "form": "softgel",
+     "doseMg": 350,
+     "servings": 130,
+     "pricePerServing": 0.13,
+     "asin": "B01070FUDE"
+    },
+    {
+     "brand": "Sports Research",
+     "title": "Sports Research Krill Oil Supplement with EPA & DHA Omega 3, Phospholipids & Astaxanthin from Antarctic Krill - Highest Concentration of Krill Oil for Men & Women - 1000mg, 60 Softgel Capsules",
+     "price": 30.95,
+     "rating": 4.7,
+     "reviews": 11845,
+     "monthlySold": 7000,
+     "form": "softgel",
+     "doseMg": 1000,
+     "servings": 60,
+     "pricePerServing": 0.52,
+     "asin": "B00IP1E3O0"
+    }
+   ]
+  },
+  {
+   "slug": "boron",
+   "nameEn": "Boron",
+   "nameKo": "붕소",
+   "aliasesKo": [
+    "보론"
+   ],
+   "evidence": {
+    "nihFactSheet": true,
+    "systematicReviews": 23
+   },
+   "monthlyRevenueUsd": 6822017.0,
+   "podcastMentions": 10,
+   "podcast": [],
+   "reddit": "",
+   "products": [
+    {
+     "brand": "Pure Encapsulations",
+     "title": "Pure Encapsulations Boron (Glycinate) | Supplement for Hormone Balance, Bone Strength and Health, Connective Tissue, and Nutrient Metabolism* | 60 Capsules",
+     "price": 13.4,
+     "rating": 4.6,
+     "reviews": 2160,
+     "monthlySold": 8000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": 60,
+     "pricePerServing": 0.22,
+     "asin": "B003PR0U7I"
+    },
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost Boron Capsules 10mg, 240 Vegetarian Capsules, Gluten Free and Non-GMO",
+     "price": 16.95,
+     "rating": 4.7,
+     "reviews": 1778,
+     "monthlySold": 8000,
+     "form": "capsule",
+     "doseMg": 10,
+     "servings": 240,
+     "pricePerServing": 0.07,
+     "asin": "B0BBY9TXSB"
+    },
+    {
+     "brand": "NOW Foods",
+     "title": "NOW Supplements, Boron 3 mg (Bororganic Glycine), Structural Support*, 250 Veg Capsules",
+     "price": 11.6,
+     "rating": 4.6,
+     "reviews": 5427,
+     "monthlySold": 4000,
+     "form": "capsule",
+     "doseMg": 3,
+     "servings": 250,
+     "pricePerServing": 0.05,
+     "asin": "B00093D2NU"
+    }
+   ]
+  },
+  {
+   "slug": "hyaluronic-acid",
+   "nameEn": "Hyaluronic Acid",
+   "nameKo": "히알루론산",
+   "aliasesKo": [
+    "히알루론산나트륨"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 810
+   },
+   "monthlyRevenueUsd": 6726185.0,
+   "podcastMentions": 12,
+   "podcast": [],
+   "reddit": "Reddit users show moderate interest in oral hyaluronic acid supplements, with strongest evidence and enthusiasm for joint health benefits. There's significant confusion about effectiveness compared to topical application, and climate/environmental factors heavily influence user experiences. Users value affordable options and seek more scientific data to guide usage decisions.",
+   "products": [
+    {
+     "brand": "NUTRAHARMONY",
+     "title": "NUTRAHARMONY Biotin | Collagen | Hyaluronic Acid | Keratin - Support Normal Hair Growth Cycle - Skin & Nails - 25000mcg Vitamins B1, B2, B3, B6 & B7 - for Women & Men - Made in USA | 60 Capsules",
+     "price": 23.79,
+     "rating": 4.5,
+     "reviews": 16065,
+     "monthlySold": 40000,
+     "form": "capsule",
+     "doseMg": 25,
+     "servings": 60,
+     "pricePerServing": 0.4,
+     "asin": "B09RKDGYJD"
+    },
+    {
+     "brand": "Horbäach",
+     "title": "Horbäach Hyaluronic Acid with MSM | 1000 mg | 120 Capsules | Non-GMO and Gluten Free Supplement | Bioavailable Formula",
+     "price": 9.99,
+     "rating": 4.6,
+     "reviews": 6081,
+     "monthlySold": 8000,
+     "form": "capsule",
+     "doseMg": 1000,
+     "servings": 120,
+     "pricePerServing": null,
+     "asin": "B08MV44YGD"
+    },
+    {
+     "brand": "ForestLeaf",
+     "title": "ForestLeaf Multi Collagen Pills with Hyaluronic Acid + Vitamin C | Hydrolyzed Collagen Supplements for Women or Men | Multi Collagen Capsules Peptides for Skin, Wrinkles, 120 Caps",
+     "price": 19.8,
+     "rating": 4.5,
+     "reviews": 22877,
+     "monthlySold": 7000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0773ZG2LM"
+    }
+   ]
+  },
+  {
+   "slug": "melatonin",
+   "nameEn": "Melatonin",
+   "nameKo": "멜라토닌",
+   "aliasesKo": [
+    "멜라토닌 보충제"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 697
+   },
+   "monthlyRevenueUsd": 6471011.0,
+   "podcastMentions": 185,
+   "podcast": [
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "mechanism",
+     "claim": "Patrick says morning bright-light exposure inhibits melatonin as part of its effects on circadian rhythm.",
+     "quote": "I woke up this morning, bright light exposure first thing in the morning, reset my circadian rhythm, elicit the cortisol response, right? Get that serotonin, inhibit melatonin.",
+     "videoId": "OCddz_0NrEE",
+     "t": 54,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    },
+    {
+     "speaker": "Rhonda Patrick",
+     "kind": "anecdote",
+     "claim": "The speaker is currently taking melatonin because she is jet-lagged after returning from China.",
+     "quote": "melatonin right now cuz I'm jetlagged. got back from China a couple days ago.",
+     "videoId": "OCddz_0NrEE",
+     "t": 5455,
+     "title": "Dr. Rhonda Patrick: Maximizing Healthspan with Exercise, Sauna, & Cold Exposure",
+     "channel": "Dr. Rhonda Patrick",
+     "duration": 5519
+    }
+   ],
+   "reddit": "Melatonin discussions reveal a market plagued by overdosed products (5-10mg vs needed 0.3-1mg) causing widespread side effects like nightmares and morning grogginess, with users increasingly seeking children's formulations or liquid versions for proper micro-dosing. Recent studies linking long-term use to heart failure have intensified debate, though many users view correlation vs causation skepti",
+   "products": [
+    {
+     "brand": "Amazon Basics",
+     "title": "Amazon Basics Melatonin, Sleep Support Gummies, Strawberry Flavor, 5mg, 120 Count (Previously Solimo)",
+     "price": 7.97,
+     "rating": 4.6,
+     "reviews": 39150,
+     "monthlySold": 50000,
+     "form": "gummy",
+     "doseMg": 5,
+     "servings": 120,
+     "pricePerServing": 0.07,
+     "asin": "B07BBFFTKH"
+    },
+    {
+     "brand": "Natrol",
+     "title": "Natrol Melatonin Gummies, Sleep Support for Adults, Melatonin 10 mg, 140 Strawberry-Flavored, Up to 70 Days",
+     "price": 15.99,
+     "rating": 4.6,
+     "reviews": 52360,
+     "monthlySold": 40000,
+     "form": "gummy",
+     "doseMg": 10,
+     "servings": 70,
+     "pricePerServing": 0.23,
+     "asin": "B08666GMWG"
+    },
+    {
+     "brand": "Zarbee's",
+     "title": "Zarbee's Kids Melatonin Gummies with 1mg Melatonin, Kids Sleep Gummy, Promotes Peaceful Sleep, Drug-Free, Non-Habit-Forming, Natural Strawberry, 60 ct",
+     "price": 11.5,
+     "rating": 4.8,
+     "reviews": 1598,
+     "monthlySold": 20000,
+     "form": "gummy",
+     "doseMg": 1,
+     "servings": 60,
+     "pricePerServing": 0.19,
+     "asin": "B0DBPXDYWT"
+    }
+   ]
+  },
+  {
+   "slug": "l-cysteine",
+   "nameEn": "L-Cysteine",
+   "nameKo": "L-시스테인",
+   "aliasesKo": [
+    "엘시스테인"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 13
+   },
+   "monthlyRevenueUsd": 6336852.0,
+   "podcastMentions": 48,
+   "podcast": [],
+   "reddit": "Reddit discussions show L-Cysteine is overshadowed by NAC, which is preferred for its stability and bioavailability. Users generally favor NAC or natural food sources over L-Cysteine supplements, with most interest focused on hangover prevention and detoxification applications.",
+   "products": [
+    {
+     "brand": "Life Extension",
+     "title": "Life Extension N-Acetyl-L-Cysteine (NAC), Immune, Respiratory, Liver Health, NAC 600 mg, Potent antioxidant Support, Free-radicals, Easy to Absorb, 60 Capsules",
+     "price": 11.25,
+     "rating": 4.6,
+     "reviews": 7493,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 600,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B008ML8D4O"
+    },
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost N-Acetyl L-Cysteine (NAC) 600mg, 180 Capsules - Non-GMO, Gluten Free",
+     "price": 15.95,
+     "rating": 4.6,
+     "reviews": 13236,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 600,
+     "servings": 180,
+     "pricePerServing": null,
+     "asin": "B01CUQFKW4"
+    },
+    {
+     "brand": "NOW Foods",
+     "title": "NOW Supplements, NAC (N-Acetyl Cysteine) 600 mg with Selenium, 250 Veg Capsules",
+     "price": 21.85,
+     "rating": 4.6,
+     "reviews": 20392,
+     "monthlySold": 20000,
+     "form": "capsule",
+     "doseMg": 600,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0013OUQ3S"
+    }
+   ]
+  },
+  {
+   "slug": "butyrate",
+   "nameEn": "Butyrate",
+   "nameKo": "부티르산염",
+   "aliasesKo": [
+    "부티레이트"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 185
+   },
+   "monthlyRevenueUsd": 6330627.0,
+   "podcastMentions": 51,
+   "podcast": [
+    {
+     "speaker": "Michael Pollan",
+     "kind": "mechanism",
+     "claim": "Gut microbes produce butyrate, which the speaker says is important for mood and other functions.",
+     "quote": "Butyrate is a chemical that um the microbes produce that's really important for mood uh and a lot of things and the body can't produce it.",
+     "videoId": "5QQun2pDQEs",
+     "t": 7644,
+     "title": "Joe Rogan Experience #2467 - Michael Pollan",
+     "channel": "Joe Rogan Experience",
+     "duration": 8639
+    },
+    {
+     "speaker": "Michael Pollan",
+     "kind": "mechanism",
+     "claim": "The speaker says metabolites such as butyrate produced during fermentation may help explain why eating fermented foods reduces inflammation.",
+     "quote": "There was a study done at Stanford a couple years ago that um they showed that people who ate fermented food uh it reduced their inflammation significantly. Interestingly enough, it's not the bacteria in the fermented food.",
+     "videoId": "5QQun2pDQEs",
+     "t": 7718,
+     "title": "Joe Rogan Experience #2467 - Michael Pollan",
+     "channel": "Joe Rogan Experience",
+     "duration": 8639
+    }
+   ],
+   "reddit": "Butyrate supplements show promise for gut health and mood benefits, but adoption is limited by unpleasant side effects and high costs. Many users prefer natural food sources like beans and fermented foods, viewing supplements as a last resort or short-term intervention.",
+   "products": [
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost HMB (Beta-Hydroxy Beta-Methylbutyrate) 1000mg (240 Capsules) - 500mg Per Capsule, 120 Servings - Gluten Free and Non-GMO",
+     "price": 19.5,
+     "rating": 4.5,
+     "reviews": 8555,
+     "monthlySold": 7000,
+     "form": "capsule",
+     "doseMg": 1000,
+     "servings": 120,
+     "pricePerServing": 0.16,
+     "asin": "B07KX2GJHV"
+    },
+    {
+     "brand": "Nutricost",
+     "title": "Nutricost HMB Powder (Beta-Hydroxy Beta-Methylbutyrate) 250 Grams - Gluten Free & Non-GMO",
+     "price": 19.95,
+     "rating": 4.5,
+     "reviews": 2720,
+     "monthlySold": 3000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B07LHCB9FN"
+    },
+    {
+     "brand": "BodyBio",
+     "title": "BodyBio Butyrate - Postbiotic for Gut Health, Digestive Support, Bloat, Gas & Constipation Relief, Leaky Gut Repair - Sodium + Butyric Acid Supplement for GI Wellness",
+     "price": 36.99,
+     "rating": 4.2,
+     "reviews": 2815,
+     "monthlySold": 2000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0058A9SF0"
+    }
+   ]
+  },
+  {
+   "slug": "pea-protein",
+   "nameEn": "Pea Protein",
+   "nameKo": "완두 단백질",
+   "aliasesKo": [
+    "완두콩 단백질"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 1
+   },
+   "monthlyRevenueUsd": 6276093.0,
+   "podcastMentions": 18,
+   "podcast": [],
+   "reddit": "Pea protein is viewed as an effective but inferior alternative to whey protein, primarily chosen by those with dietary restrictions or dairy sensitivities. The main consensus is that while pea protein can deliver similar muscle-building results, it suffers from poor taste/texture and requires larger servings, making it mainly suitable for vegans or those who cannot tolerate whey.",
+   "products": [
+    {
+     "brand": "NAKED",
+     "title": "NAKED Pea - 5LB 100% Pea Protein Powder from North American Farms - Unflavored Vegan Pea Protein Isolate - NSF Certified, Plant Protein Powder, Easy to Digest - 76 Servings",
+     "price": 57.99,
+     "rating": 4.2,
+     "reviews": 10173,
+     "monthlySold": 4000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 76,
+     "pricePerServing": 0.76,
+     "asin": "B00NBIUGA2"
+    },
+    {
+     "brand": "Anthony's",
+     "title": "Anthony's Premium Pea Protein, 2 lb, Plant Based, Gluten Free, Unflavored, Vegan, Keto Friendly, Made from Peas",
+     "price": 22.99,
+     "rating": 4.4,
+     "reviews": 8092,
+     "monthlySold": 4000,
+     "form": "capsule",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B01COARRFE"
+    },
+    {
+     "brand": "NAKED",
+     "title": "NAKED Pea - Pea Protein Isolate - Plant Based, Vegetarian & Vegan Protein. NSF Certified, Easy to Digest, Non-GMO, No Lactose, No Soy and Gluten Free - 15 Servings",
+     "price": 19.99,
+     "rating": 4.2,
+     "reviews": 10172,
+     "monthlySold": 3000,
+     "form": "powder",
+     "doseMg": null,
+     "servings": 15,
+     "pricePerServing": 1.33,
+     "asin": "B0787RBSF8"
+    }
+   ]
+  },
+  {
+   "slug": "lutein-zeaxanthin",
+   "nameEn": "Lutein & Zeaxanthin",
+   "nameKo": "루테인과 제아잔틴",
+   "aliasesKo": [
+    "루테인 및 제아잔틴",
+    "루테인·제아잔틴"
+   ],
+   "evidence": {
+    "nihFactSheet": false,
+    "systematicReviews": 21
+   },
+   "monthlyRevenueUsd": 6274466.0,
+   "podcastMentions": 4,
+   "podcast": [],
+   "reddit": "Lutein and zeaxanthin supplements show strong user satisfaction for specific issues like eye strain, dry eyes, and certain degenerative conditions, though effects take months to manifest. Users are generally willing to pay premium prices when they see results, but many prefer food sources and question supplement necessity for healthy individuals.",
+   "products": [
+    {
+     "brand": "Clean Nutraceuticals",
+     "title": "Clean Nutra Eye Vitamins with Bilberry Lutein and Zeaxanthin Supplements Lycopene 40mg Resveratrol Grape Seed Astaxanthin for Eyes - Eye Care Health Support Eye Vitamin and Mineral Supplement",
+     "price": 29.95,
+     "rating": 4.5,
+     "reviews": 2471,
+     "monthlySold": 5000,
+     "form": "capsule",
+     "doseMg": 40,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B0C4J8G4SB"
+    },
+    {
+     "brand": "Sports Research",
+     "title": "Sports Research® Lutein and Zeaxanthin Capsules - Eye Health Support Supplement Made with Lute-Gen® and Organic Coconut Oil - Vegan Friendly & Non-GMO Verified - 120 Veggie Softgels",
+     "price": 22.95,
+     "rating": 4.7,
+     "reviews": 2506,
+     "monthlySold": 4000,
+     "form": "softgel",
+     "doseMg": null,
+     "servings": null,
+     "pricePerServing": null,
+     "asin": "B07DFRQFQT"
+    },
+    {
+     "brand": "NOW Foods",
+     "title": "NOW Foods Supplements, Lutein & Zeaxanthin with 25 mg Lutein and 5 mg Zeaxanthin, 60 Softgels",
+     "price": 16.8,
+     "rating": 4.6,
+     "reviews": 2535,
+     "monthlySold": 4000,
+     "form": "softgel",
+     "doseMg": 25,
+     "servings": 60,
+     "pricePerServing": null,
+     "asin": "B01LQEL9F8"
+    }
+   ]
+  }
+ ]
+}

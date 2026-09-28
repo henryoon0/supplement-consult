@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+:root {
+  /* 모션 곡선 — 화면 컴포넌트가 ease-[var(--motion-ease-out)] 로 참조한다 */
+  --motion-ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --motion-ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+  --motion-ease-drawer: cubic-bezier(0.32, 0.72, 0, 1);
+  color-scheme: light;
+}
+
+@theme inline {
+  --font-sans: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard Variable", Pretendard, "Segoe UI", Roboto, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+  --shadow-card: 0 1px 2px oklch(0.145 0 0 / 0.04), 0 4px 12px -2px oklch(0.145 0 0 / 0.06);
+  --shadow-card-hover: 0 2px 4px oklch(0.145 0 0 / 0.05), 0 10px 24px -4px oklch(0.145 0 0 / 0.09);
+}
+
+body {
+  background: #fafafa;
+  color: #171717;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+@layer components {
+  .eyebrow {
+    @apply font-mono text-[11px] uppercase tracking-[0.12em] text-neutral-500;
+    font-weight: 500;
+  }
+  .text-display {
+    font-weight: 560;
+    letter-spacing: -0.01em;
+  }
+  .btn-accent {
+    @apply inline-flex select-none items-center justify-center gap-1.5 rounded-full bg-emerald-700 px-3.5 py-1.5 text-xs text-white transition-[color,background-color,box-shadow,transform] duration-150 ease-[var(--motion-ease-out)] hover:bg-emerald-800 active:scale-[0.96] focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-700 disabled:cursor-not-allowed disabled:opacity-40 disabled:active:scale-100;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

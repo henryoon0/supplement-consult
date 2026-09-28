@@ -1,0 +1,126 @@
+# 새로 만든 가상 컴퓨터에서 설치를 처음부터 끝까지 시험한다.
+# 맥: Homebrew 없는 PATH 로 설치 → 앱 응답 확인 → 두 번 설치 → 제거
+# 윈도우·리눅스: 지원하지 않으므로 아무것도 바꾸지 않고 안내하며 멈추는지 확인
+name: install-test
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  unit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: npx tsc --noEmit
+      - run: npx vitest run
+      - run: npm run build
+
+  macos:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [macos-latest] # Apple Silicon. 비공개 저장소는 맥 1분을 10분으로 세서 한 대만 돈다
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v5
+      - name: 브라우저 열기는 가짜로, Homebrew 는 PATH 에서 빼기
+        run: |
+          mkdir -p "$RUNNER_TEMP/stub"
+          printf '#!/bin/sh\necho "[stub] open $*"\n' > "$RUNNER_TEMP/stub/open"
+          printf '#!/bin/sh\necho "sudo called" >&2\nexit 1\n' > "$RUNNER_TEMP/stub/sudo"
+          chmod +x "$RUNNER_TEMP/stub"/*
+          echo "BARE_PATH=$RUNNER_TEMP/stub:/usr/bin:/bin:/usr/sbin:/sbin" >> "$GITHUB_ENV"
+          test ! -e "$HOME/.supplement-consult"
+      - name: 설치 (Homebrew·Node 없음)
+        run: env PATH="$BARE_PATH" bash install.sh
+      - name: 설치 결과 확인
+        run: |
+          test -x "$HOME/.supplement-consult/node/bin/node"
+          test -d "$HOME/.supplement-consult/app/.next"
+          test -L "$HOME/.supplement-consult/app/data"
+          test -f "$HOME/Library/LaunchAgents/com.supplement-consult.plist"
+          plutil -lint "$HOME/Library/LaunchAgents/com.supplement-consult.plist"
+          test -d "$HOME/Applications/보충제 상담.app"
+          bash "$HOME/.supplement-consult/bin/doctor.sh"
+      - name: 앱이 실제로 응답하는지 (계정 연결 전 상태)
+        run: |
+          # 가상 컴퓨터에서 백그라운드 실행 등록이 막히면 같은 명령을 직접 띄워 앱 자체를 시험한다.
+          if ! curl -fsS "http://localhost:3458/api/supplement/history"; then
+            echo "백그라운드 실행이 응답하지 않아 직접 실행합니다"
+            cd "$HOME/.supplement-consult/app"
+            nohup "$HOME/.supplement-consult/node/bin/node" node_modules/next/dist/bin/next start -p 3458 > "$RUNNER_TEMP/server.log" 2>&1 &
+            for i in $(seq 1 30); do curl -fsS -o /dev/null http://localhost:3458/api/supplement/history && break; sleep 1; done
+          fi
+          curl -fsS http://localhost:3458/api/supplement/history | tee "$RUNNER_TEMP/account.json"
+          true
+          curl -fsS http://localhost:3458/ | grep -q "보충제 상담"
+      - name: 두 번 설치해도 같은 결과
+        run: |
+          snap() { find "$HOME/.supplement-consult" "$HOME/Library/LaunchAgents" -type f ! -path '*/logs/*' ! -path '*/data/*' ! -path '*/.next/cache/*' -print0 | sort -z | xargs -0 shasum; }
+          snap > "$RUNNER_TEMP/a"
+          env PATH="$BARE_PATH" bash install.sh | tee "$RUNNER_TEMP/second.log"
+          grep -q "이미 최신 버전" "$RUNNER_TEMP/second.log"
+          ! grep -q "등록에 실패" "$RUNNER_TEMP/second.log"
+          for i in $(seq 1 30); do curl -fsS -o /dev/null http://localhost:3458/api/supplement/history && break; sleep 1; done
+          curl -fsS -o /dev/null http://localhost:3458/api/supplement/history
+          snap > "$RUNNER_TEMP/b"
+          diff "$RUNNER_TEMP/a" "$RUNNER_TEMP/b"
+      - name: 기록이 있는 상태에서 업데이트 (다시 빌드해도 기록 유지)
+        run: |
+          mkdir -p "$HOME/.supplement-consult/data/supplement-consult"
+          echo '{"keep":true}' > "$HOME/.supplement-consult/data/supplement-consult/marker.json"
+          echo "old-version" > "$HOME/.supplement-consult/app/.stamp" # 새 버전이 나온 것처럼
+          env PATH="$BARE_PATH" bash install.sh | tee "$RUNNER_TEMP/update.log"
+          grep -q "앱 준비 중" "$RUNNER_TEMP/update.log"
+          grep -q "설치 완료" "$RUNNER_TEMP/update.log"
+          ! grep -q "등록에 실패" "$RUNNER_TEMP/update.log"
+          test "$(cat "$HOME/.supplement-consult/app/.stamp")" != "old-version"
+          grep -q keep "$HOME/.supplement-consult/data/supplement-consult/marker.json"
+          grep -q keep "$HOME/.supplement-consult/app/data/supplement-consult/marker.json"
+      - name: 제거
+        run: |
+          pkill -f "next/dist/bin/next start -p 3458" || true
+          env PATH="$BARE_PATH" bash uninstall.sh
+          test ! -e "$HOME/.supplement-consult"
+          test ! -e "$HOME/Library/LaunchAgents/com.supplement-consult.plist"
+          test ! -e "$HOME/Applications/보충제 상담.app"
+
+  unsupported-linux:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - run: |
+          set +e
+          before="$(find "$HOME" -maxdepth 1 | sort)"
+          out="$(bash install.sh 2>&1)"; code=$?
+          echo "$out"
+          test $code -ne 0
+          echo "$out" | grep -q "macOS 전용"
+          test "$before" = "$(find "$HOME" -maxdepth 1 | sort)"
+
+  unsupported-windows:
+    runs-on: windows-latest
+    defaults:
+      run:
+        shell: bash # Git Bash — 윈도우에서 bash 로 붙여넣은 사람
+    steps:
+      - uses: actions/checkout@v5
+      - run: |
+          set +e
+          out="$(bash install.sh 2>&1)"; code=$?
+          echo "$out"
+          test $code -ne 0
+          echo "$out" | grep -q "macOS 전용"
+          test ! -e "$HOME/.supplement-consult"
+
+  line-endings:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: 셸 스크립트는 LF
+        run: "! git ls-files '*.sh' | xargs grep -l $'\\r'"

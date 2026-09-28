@@ -1,0 +1,437 @@
+{
+  "$comment": "Deterministic Safety Gate rule table for the voice prototype. Ingredient ids match ../formulary/seed.json. Every medication and condition rule lists the synonyms the Character's transcript is matched against, case-insensitively, by substring. Verdicts: hold = do not name this ingredient now (missing answer, timing conflict, already taken, allergy); refer_to_doctor = a doctor must weigh in before this ingredient is discussed. These rules are drafted from the NIH ODS fact sheets and Examine.com interaction notes and are PENDING pharmacist review (founder decision D11).",
+  "reviewed": false,
+  "version": "2026-09-11-prototype",
+  "verdictPrecedence": ["refer_to_doctor", "hold", "allowed"],
+  "negationTokens": [
+    "none",
+    "no",
+    "nothing",
+    "n/a",
+    "not applicable",
+    "nope",
+    "not that i know of"
+  ],
+  "pregnancy": {
+    "synonyms": [
+      "pregnant",
+      "pregnancy",
+      "expecting",
+      "breastfeeding",
+      "breast-feeding",
+      "nursing",
+      "lactating",
+      "lactation",
+      "trying to conceive",
+      "conceiving",
+      "conceive",
+      "ttc",
+      "ivf",
+      "fertility treatment"
+    ]
+  },
+  "ingredients": {
+    "magnesium-glycinate": {
+      "synonyms": [
+        "magnesium",
+        "mag glycinate",
+        "magnesium glycinate",
+        "magnesium bisglycinate",
+        "magnesium citrate",
+        "magnesium oxide",
+        "magnesium threonate",
+        "mag citrate"
+      ],
+      "allergens": ["magnesium"],
+      "pregnancy": {
+        "verdict": "hold",
+        "reason": "Magnesium at food-level doses is common in pregnancy, but the Character does not personalize supplement doses during pregnancy, breastfeeding, or conception attempts. Ask the prenatal care provider."
+      },
+      "medications": [
+        {
+          "id": "bisphosphonates",
+          "synonyms": [
+            "bisphosphonate",
+            "alendronate",
+            "fosamax",
+            "risedronate",
+            "actonel",
+            "ibandronate",
+            "boniva",
+            "zoledronic",
+            "reclast"
+          ],
+          "verdict": "hold",
+          "reason": "Magnesium can reduce absorption of oral bisphosphonates. Timing separation of at least 2 hours is the usual advice; the Character holds rather than sets that schedule itself."
+        },
+        {
+          "id": "tetracycline_or_quinolone_antibiotics",
+          "synonyms": [
+            "tetracycline",
+            "doxycycline",
+            "minocycline",
+            "quinolone",
+            "fluoroquinolone",
+            "ciprofloxacin",
+            "cipro",
+            "levofloxacin",
+            "levaquin",
+            "moxifloxacin",
+            "antibiotic"
+          ],
+          "verdict": "hold",
+          "reason": "Magnesium binds tetracycline and quinolone antibiotics in the gut and lowers their absorption. NIH advises taking the antibiotic at least 2 hours before or 4 to 6 hours after magnesium; hold until the course is finished or a pharmacist sets the timing."
+        },
+        {
+          "id": "diuretics",
+          "synonyms": [
+            "diuretic",
+            "water pill",
+            "furosemide",
+            "lasix",
+            "bumetanide",
+            "hydrochlorothiazide",
+            "hctz",
+            "chlorthalidone",
+            "spironolactone",
+            "amiloride",
+            "triamterene"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Loop and thiazide diuretics increase magnesium loss while potassium-sparing diuretics reduce it, so the right direction depends on the drug and the person's labs. A doctor or pharmacist should decide."
+        },
+        {
+          "id": "proton_pump_inhibitors",
+          "synonyms": [
+            "proton pump inhibitor",
+            "ppi",
+            "omeprazole",
+            "prilosec",
+            "esomeprazole",
+            "nexium",
+            "lansoprazole",
+            "prevacid",
+            "pantoprazole",
+            "protonix",
+            "rabeprazole"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Long-term proton pump inhibitor use can cause low magnesium, which is a reason a doctor may want to check levels rather than a reason to self-supplement."
+        }
+      ],
+      "conditions": [
+        {
+          "id": "kidney_disease",
+          "synonyms": [
+            "kidney disease",
+            "kidney failure",
+            "renal",
+            "ckd",
+            "chronic kidney",
+            "dialysis",
+            "nephropathy",
+            "kidney problem"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Impaired kidneys clear magnesium slowly and supplemental magnesium can accumulate to toxic levels. Any magnesium supplement in kidney disease is a doctor's decision."
+        },
+        {
+          "id": "heart_block_or_myasthenia",
+          "synonyms": ["heart block", "myasthenia", "myasthenia gravis"],
+          "verdict": "refer_to_doctor",
+          "reason": "Magnesium affects neuromuscular and cardiac conduction; these conditions need a doctor's clearance before supplementing."
+        }
+      ]
+    },
+    "glycine": {
+      "synonyms": ["glycine"],
+      "allergens": ["glycine"],
+      "pregnancy": {
+        "verdict": "hold",
+        "reason": "There is no safety data for gram-level glycine supplementation in pregnancy, breastfeeding, or conception attempts. Ask the prenatal care provider."
+      },
+      "medications": [
+        {
+          "id": "clozapine",
+          "synonyms": ["clozapine", "clozaril", "fazaclo", "versacloz"],
+          "verdict": "refer_to_doctor",
+          "reason": "Glycine has been reported to interfere with clozapine's effect in a small trial. Anyone on clozapine is under close psychiatric care and that prescriber decides."
+        },
+        {
+          "id": "antipsychotics",
+          "synonyms": [
+            "antipsychotic",
+            "olanzapine",
+            "zyprexa",
+            "risperidone",
+            "risperdal",
+            "quetiapine",
+            "seroquel",
+            "aripiprazole",
+            "abilify",
+            "haloperidol"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Glycine acts on the same receptor systems that antipsychotic research targets. The prescribing doctor should be asked before adding it."
+        }
+      ],
+      "conditions": []
+    },
+    "l-theanine": {
+      "synonyms": ["theanine", "l-theanine", "l theanine", "suntheanine"],
+      "allergens": ["theanine", "green tea", "tea"],
+      "pregnancy": {
+        "verdict": "hold",
+        "reason": "No safety data for supplemental theanine in pregnancy, breastfeeding, or conception attempts. Ask the prenatal care provider."
+      },
+      "medications": [
+        {
+          "id": "antihypertensives",
+          "synonyms": [
+            "antihypertensive",
+            "blood pressure medication",
+            "blood pressure med",
+            "blood pressure pill",
+            "bp medication",
+            "lisinopril",
+            "losartan",
+            "amlodipine",
+            "metoprolol",
+            "atenolol",
+            "propranolol",
+            "valsartan",
+            "hydrochlorothiazide",
+            "ace inhibitor",
+            "beta blocker",
+            "calcium channel blocker"
+          ],
+          "verdict": "hold",
+          "reason": "Theanine may lower blood pressure slightly, which could add to a blood pressure medication. Hold until a pharmacist confirms it is fine for this person."
+        },
+        {
+          "id": "sedatives",
+          "synonyms": [
+            "sedative",
+            "sleeping pill",
+            "benzodiazepine",
+            "benzo",
+            "lorazepam",
+            "ativan",
+            "alprazolam",
+            "xanax",
+            "diazepam",
+            "valium",
+            "clonazepam",
+            "klonopin",
+            "zolpidem",
+            "ambien",
+            "eszopiclone",
+            "lunesta",
+            "trazodone"
+          ],
+          "verdict": "hold",
+          "reason": "Theanine's calming effect might add to a prescribed sedative. Hold; the prescriber should be asked before stacking anything on a sleep medication."
+        }
+      ],
+      "conditions": []
+    },
+    "ashwagandha": {
+      "synonyms": [
+        "ashwagandha",
+        "withania",
+        "ksm-66",
+        "ksm66",
+        "sensoril",
+        "indian ginseng",
+        "winter cherry"
+      ],
+      "allergens": [
+        "nightshade",
+        "solanaceae",
+        "ashwagandha",
+        "withania",
+        "tomato",
+        "potato",
+        "eggplant",
+        "bell pepper"
+      ],
+      "pregnancy": {
+        "verdict": "refer_to_doctor",
+        "reason": "Ashwagandha is traditionally avoided in pregnancy and the NIH fact sheet advises against use while pregnant or breastfeeding. A doctor must be involved."
+      },
+      "medications": [
+        {
+          "id": "thyroid_medication",
+          "synonyms": [
+            "thyroid",
+            "levothyroxine",
+            "synthroid",
+            "levoxyl",
+            "euthyrox",
+            "liothyronine",
+            "cytomel",
+            "armour thyroid",
+            "methimazole",
+            "propylthiouracil",
+            "ptu"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Ashwagandha may raise thyroid hormone levels and can push a treated thyroid out of range. The prescribing doctor must weigh in."
+        },
+        {
+          "id": "sedatives",
+          "synonyms": [
+            "sedative",
+            "sleeping pill",
+            "benzodiazepine",
+            "benzo",
+            "lorazepam",
+            "ativan",
+            "alprazolam",
+            "xanax",
+            "diazepam",
+            "valium",
+            "clonazepam",
+            "klonopin",
+            "zolpidem",
+            "ambien",
+            "eszopiclone",
+            "lunesta",
+            "trazodone",
+            "barbiturate"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Ashwagandha can add to the drowsiness of sedatives and benzodiazepines. The prescriber decides."
+        },
+        {
+          "id": "immunosuppressants",
+          "synonyms": [
+            "immunosuppressant",
+            "immunosuppressive",
+            "tacrolimus",
+            "prograf",
+            "cyclosporine",
+            "mycophenolate",
+            "cellcept",
+            "azathioprine",
+            "imuran",
+            "methotrexate",
+            "prednisone",
+            "prednisolone",
+            "corticosteroid",
+            "biologic",
+            "adalimumab",
+            "humira",
+            "etanercept",
+            "enbrel"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Ashwagandha may stimulate the immune system and work against immunosuppressant therapy. The prescribing doctor must be asked."
+        },
+        {
+          "id": "antidiabetics",
+          "synonyms": [
+            "diabetes medication",
+            "antidiabetic",
+            "insulin",
+            "metformin",
+            "glucophage",
+            "glipizide",
+            "glyburide",
+            "glimepiride",
+            "sitagliptin",
+            "januvia",
+            "empagliflozin",
+            "jardiance",
+            "semaglutide",
+            "ozempic",
+            "liraglutide"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Ashwagandha may lower blood sugar and add to diabetes medication. The prescribing doctor should be asked."
+        },
+        {
+          "id": "antihypertensives",
+          "synonyms": [
+            "antihypertensive",
+            "blood pressure medication",
+            "blood pressure med",
+            "blood pressure pill",
+            "bp medication",
+            "lisinopril",
+            "losartan",
+            "amlodipine",
+            "metoprolol",
+            "atenolol",
+            "propranolol",
+            "valsartan",
+            "ace inhibitor",
+            "beta blocker",
+            "calcium channel blocker"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Ashwagandha may lower blood pressure and add to a blood pressure medication. The prescribing doctor should be asked."
+        }
+      ],
+      "conditions": [
+        {
+          "id": "thyroid_condition",
+          "synonyms": [
+            "thyroid",
+            "hypothyroid",
+            "hyperthyroid",
+            "hashimoto",
+            "graves",
+            "goiter",
+            "thyroiditis"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Ashwagandha may change thyroid hormone levels. Anyone with a thyroid condition needs a doctor's clearance."
+        },
+        {
+          "id": "autoimmune_condition",
+          "synonyms": [
+            "autoimmune",
+            "lupus",
+            "rheumatoid",
+            "multiple sclerosis",
+            "ms",
+            "crohn",
+            "ulcerative colitis",
+            "psoriasis",
+            "celiac",
+            "type 1 diabetes",
+            "sjogren",
+            "ankylosing"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Ashwagandha may stimulate immune activity, which can worsen autoimmune conditions. A doctor must decide."
+        },
+        {
+          "id": "liver_disease",
+          "synonyms": [
+            "liver",
+            "hepatitis",
+            "cirrhosis",
+            "fatty liver",
+            "nafld",
+            "elevated liver enzymes"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Rare case reports link ashwagandha to liver injury. Anyone with liver disease needs a doctor's clearance."
+        },
+        {
+          "id": "hormone_sensitive_cancer",
+          "synonyms": [
+            "prostate cancer",
+            "breast cancer",
+            "hormone sensitive",
+            "hormone-sensitive"
+          ],
+          "verdict": "refer_to_doctor",
+          "reason": "Ashwagandha may affect hormone levels; hormone-sensitive cancers need an oncologist's decision."
+        }
+      ]
+    }
+  }
+}

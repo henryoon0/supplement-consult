@@ -1,0 +1,16 @@
+node_modules
+.next
+data
+.env*
+*.log
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+data-backup-*
+public/threads-evidence
+.wrangler
+pipeline/.env
+pipeline/data/
+pipeline/.venv/
+__pycache__/
+*.duckdb
